@@ -1,0 +1,2305 @@
+﻿State,Year,Crime,Arrests
+AL,2017,Motor Vehicle Theft,877
+AL,2018,Motor Vehicle Theft,994
+AL,2019,Motor Vehicle Theft,920
+AL,2020,Motor Vehicle Theft,20
+AL,2021,Motor Vehicle Theft,320
+AK,2017,Motor Vehicle Theft,694
+AK,2018,Motor Vehicle Theft,726
+AK,2019,Motor Vehicle Theft,476
+AK,2020,Motor Vehicle Theft,338
+AK,2021,Motor Vehicle Theft,96
+AZ,2017,Motor Vehicle Theft,1735
+AZ,2018,Motor Vehicle Theft,1794
+AZ,2019,Motor Vehicle Theft,1570
+AZ,2020,Motor Vehicle Theft,1684
+AZ,2021,Motor Vehicle Theft,697
+AR,2017,Motor Vehicle Theft,623
+AR,2018,Motor Vehicle Theft,652
+AR,2019,Motor Vehicle Theft,619
+AR,2020,Motor Vehicle Theft,553
+AR,2021,Motor Vehicle Theft,659
+CA,2017,Motor Vehicle Theft,19541
+CA,2018,Motor Vehicle Theft,18020
+CA,2019,Motor Vehicle Theft,15240
+CA,2020,Motor Vehicle Theft,16369
+CA,2021,Motor Vehicle Theft,823
+CO,2017,Motor Vehicle Theft,2879
+CO,2018,Motor Vehicle Theft,2757
+CO,2019,Motor Vehicle Theft,3175
+CO,2020,Motor Vehicle Theft,3550
+CO,2021,Motor Vehicle Theft,4042
+CT,2017,Motor Vehicle Theft,930
+CT,2018,Motor Vehicle Theft,817
+CT,2019,Motor Vehicle Theft,660
+CT,2020,Motor Vehicle Theft,667
+CT,2021,Motor Vehicle Theft,666
+DE,2017,Motor Vehicle Theft,134
+DE,2018,Motor Vehicle Theft,115
+DE,2019,Motor Vehicle Theft,200
+DE,2020,Motor Vehicle Theft,159
+DE,2021,Motor Vehicle Theft,184
+DC,2017,Motor Vehicle Theft,5
+DC,2018,Motor Vehicle Theft,9
+DC,2019,Motor Vehicle Theft,1
+DC,2020,Motor Vehicle Theft,11
+DC,2021,Motor Vehicle Theft,9
+FL,2017,Motor Vehicle Theft,8292
+FL,2018,Motor Vehicle Theft,209
+FL,2019,Motor Vehicle Theft,7776
+FL,2020,Motor Vehicle Theft,7183
+FL,2021,Motor Vehicle Theft,13
+GA,2017,Motor Vehicle Theft,1672
+GA,2018,Motor Vehicle Theft,1243
+GA,2019,Motor Vehicle Theft,519
+GA,2020,Motor Vehicle Theft,753
+GA,2021,Motor Vehicle Theft,1276
+HI,2017,Motor Vehicle Theft,423
+HI,2018,Motor Vehicle Theft,416
+HI,2019,Motor Vehicle Theft,401
+HI,2020,Motor Vehicle Theft,224
+HI,2021,Motor Vehicle Theft,73
+ID,2017,Motor Vehicle Theft,242
+ID,2018,Motor Vehicle Theft,200
+ID,2019,Motor Vehicle Theft,194
+ID,2020,Motor Vehicle Theft,149
+ID,2021,Motor Vehicle Theft,180
+IL,2017,Motor Vehicle Theft,3113
+IL,2018,Motor Vehicle Theft,4267
+IL,2019,Motor Vehicle Theft,12
+IL,2020,Motor Vehicle Theft,13
+IL,2021,Motor Vehicle Theft,164
+IN,2017,Motor Vehicle Theft,1602
+IN,2018,Motor Vehicle Theft,1505
+IN,2019,Motor Vehicle Theft,1149
+IN,2020,Motor Vehicle Theft,944
+IN,2021,Motor Vehicle Theft,1143
+IA,2017,Motor Vehicle Theft,637
+IA,2018,Motor Vehicle Theft,560
+IA,2019,Motor Vehicle Theft,655
+IA,2020,Motor Vehicle Theft,654
+IA,2021,Motor Vehicle Theft,824
+KS,2017,Motor Vehicle Theft,423
+KS,2018,Motor Vehicle Theft,93
+KS,2019,Motor Vehicle Theft,336
+KS,2020,Motor Vehicle Theft,379
+KS,2021,Motor Vehicle Theft,305
+KY,2017,Motor Vehicle Theft,953
+KY,2018,Motor Vehicle Theft,1046
+KY,2019,Motor Vehicle Theft,1033
+KY,2020,Motor Vehicle Theft,712
+KY,2021,Motor Vehicle Theft,776
+LA,2017,Motor Vehicle Theft,1384
+LA,2018,Motor Vehicle Theft,1694
+LA,2019,Motor Vehicle Theft,1514
+LA,2020,Motor Vehicle Theft,1122
+LA,2021,Motor Vehicle Theft,822
+ME,2017,Motor Vehicle Theft,226
+ME,2018,Motor Vehicle Theft,235
+ME,2019,Motor Vehicle Theft,199
+ME,2020,Motor Vehicle Theft,257
+ME,2021,Motor Vehicle Theft,203
+MD,2017,Motor Vehicle Theft,1807
+MD,2018,Motor Vehicle Theft,2041
+MD,2019,Motor Vehicle Theft,1948
+MD,2020,Motor Vehicle Theft,297
+MD,2021,Motor Vehicle Theft,364
+MA,2017,Motor Vehicle Theft,623
+MA,2018,Motor Vehicle Theft,544
+MA,2019,Motor Vehicle Theft,549
+MA,2020,Motor Vehicle Theft,500
+MA,2021,Motor Vehicle Theft,523
+MI,2017,Motor Vehicle Theft,1289
+MI,2018,Motor Vehicle Theft,1213
+MI,2019,Motor Vehicle Theft,1268
+MI,2020,Motor Vehicle Theft,1197
+MI,2021,Motor Vehicle Theft,1254
+MN,2017,Motor Vehicle Theft,1523
+MN,2018,Motor Vehicle Theft,1610
+MN,2019,Motor Vehicle Theft,1605
+MN,2020,Motor Vehicle Theft,1248
+MN,2021,Motor Vehicle Theft,913
+MS,2017,Motor Vehicle Theft,375
+MS,2018,Motor Vehicle Theft,334
+MS,2019,Motor Vehicle Theft,404
+MS,2020,Motor Vehicle Theft,297
+MS,2021,Motor Vehicle Theft,275
+MO,2017,Motor Vehicle Theft,2562
+MO,2018,Motor Vehicle Theft,2470
+MO,2019,Motor Vehicle Theft,2338
+MO,2020,Motor Vehicle Theft,1986
+MO,2021,Motor Vehicle Theft,1965
+MT,2017,Motor Vehicle Theft,255
+MT,2018,Motor Vehicle Theft,365
+MT,2019,Motor Vehicle Theft,283
+MT,2020,Motor Vehicle Theft,307
+MT,2021,Motor Vehicle Theft,318
+NE,2017,Motor Vehicle Theft,217
+NE,2018,Motor Vehicle Theft,467
+NE,2019,Motor Vehicle Theft,462
+NE,2020,Motor Vehicle Theft,324
+NE,2021,Motor Vehicle Theft,207
+NV,2017,Motor Vehicle Theft,880
+NV,2018,Motor Vehicle Theft,753
+NV,2019,Motor Vehicle Theft,699
+NV,2020,Motor Vehicle Theft,574
+NV,2021,Motor Vehicle Theft,702
+NH,2017,Motor Vehicle Theft,167
+NH,2018,Motor Vehicle Theft,166
+NH,2019,Motor Vehicle Theft,154
+NH,2020,Motor Vehicle Theft,143
+NH,2021,Motor Vehicle Theft,121
+NJ,2017,Motor Vehicle Theft,497
+NJ,2018,Motor Vehicle Theft,589
+NJ,2019,Motor Vehicle Theft,649
+NJ,2020,Motor Vehicle Theft,589
+NJ,2021,Motor Vehicle Theft,102
+NM,2017,Motor Vehicle Theft,183
+NM,2018,Motor Vehicle Theft,379
+NM,2019,Motor Vehicle Theft,285
+NM,2020,Motor Vehicle Theft,229
+NM,2021,Motor Vehicle Theft,178
+NY,2017,Motor Vehicle Theft,1793
+NY,2018,Motor Vehicle Theft,1820
+NY,2019,Motor Vehicle Theft,1770
+NY,2020,Motor Vehicle Theft,1801
+NY,2021,Motor Vehicle Theft,520
+NC,2017,Motor Vehicle Theft,1338
+NC,2018,Motor Vehicle Theft,1663
+NC,2019,Motor Vehicle Theft,1103
+NC,2020,Motor Vehicle Theft,1280
+NC,2021,Motor Vehicle Theft,1315
+ND,2017,Motor Vehicle Theft,290
+ND,2018,Motor Vehicle Theft,216
+ND,2019,Motor Vehicle Theft,236
+ND,2020,Motor Vehicle Theft,305
+ND,2021,Motor Vehicle Theft,225
+OH,2017,Motor Vehicle Theft,978
+OH,2018,Motor Vehicle Theft,972
+OH,2019,Motor Vehicle Theft,923
+OH,2020,Motor Vehicle Theft,763
+OH,2021,Motor Vehicle Theft,935
+OK,2017,Motor Vehicle Theft,730
+OK,2018,Motor Vehicle Theft,889
+OK,2019,Motor Vehicle Theft,1365
+OK,2020,Motor Vehicle Theft,1513
+OK,2021,Motor Vehicle Theft,1406
+OR,2017,Motor Vehicle Theft,2001
+OR,2018,Motor Vehicle Theft,2112
+OR,2019,Motor Vehicle Theft,2181
+OR,2020,Motor Vehicle Theft,1968
+OR,2021,Motor Vehicle Theft,2168
+PA,2017,Motor Vehicle Theft,2435
+PA,2018,Motor Vehicle Theft,2519
+PA,2019,Motor Vehicle Theft,627
+PA,2020,Motor Vehicle Theft,12
+PA,2021,Motor Vehicle Theft,76
+RI,2017,Motor Vehicle Theft,157
+RI,2018,Motor Vehicle Theft,158
+RI,2019,Motor Vehicle Theft,141
+RI,2020,Motor Vehicle Theft,154
+RI,2021,Motor Vehicle Theft,164
+SC,2017,Motor Vehicle Theft,1147
+SC,2018,Motor Vehicle Theft,1204
+SC,2019,Motor Vehicle Theft,1195
+SC,2020,Motor Vehicle Theft,1159
+SC,2021,Motor Vehicle Theft,1081
+SD,2017,Motor Vehicle Theft,315
+SD,2018,Motor Vehicle Theft,203
+SD,2019,Motor Vehicle Theft,279
+SD,2020,Motor Vehicle Theft,385
+SD,2021,Motor Vehicle Theft,248
+TN,2017,Motor Vehicle Theft,3552
+TN,2018,Motor Vehicle Theft,3974
+TN,2019,Motor Vehicle Theft,4114
+TN,2020,Motor Vehicle Theft,3943
+TN,2021,Motor Vehicle Theft,3582
+TX,2017,Motor Vehicle Theft,5479
+TX,2018,Motor Vehicle Theft,5404
+TX,2019,Motor Vehicle Theft,5459
+TX,2020,Motor Vehicle Theft,5847
+TX,2021,Motor Vehicle Theft,6681
+UT,2017,Motor Vehicle Theft,552
+UT,2018,Motor Vehicle Theft,555
+UT,2019,Motor Vehicle Theft,411
+UT,2020,Motor Vehicle Theft,438
+UT,2021,Motor Vehicle Theft,374
+VT,2017,Motor Vehicle Theft,33
+VT,2018,Motor Vehicle Theft,55
+VT,2019,Motor Vehicle Theft,76
+VT,2020,Motor Vehicle Theft,61
+VT,2021,Motor Vehicle Theft,76
+VI,2018,Motor Vehicle Theft,16
+VA,2017,Motor Vehicle Theft,1118
+VA,2018,Motor Vehicle Theft,1223
+VA,2019,Motor Vehicle Theft,1030
+VA,2020,Motor Vehicle Theft,1058
+VA,2021,Motor Vehicle Theft,1008
+WA,2017,Motor Vehicle Theft,1639
+WA,2018,Motor Vehicle Theft,1604
+WA,2019,Motor Vehicle Theft,1285
+WA,2020,Motor Vehicle Theft,1390
+WA,2021,Motor Vehicle Theft,1124
+WV,2017,Motor Vehicle Theft,311
+WV,2018,Motor Vehicle Theft,229
+WV,2019,Motor Vehicle Theft,205
+WV,2020,Motor Vehicle Theft,201
+WV,2021,Motor Vehicle Theft,176
+WI,2017,Motor Vehicle Theft,1385
+WI,2018,Motor Vehicle Theft,1449
+WI,2019,Motor Vehicle Theft,1343
+WI,2020,Motor Vehicle Theft,1236
+WI,2021,Motor Vehicle Theft,1165
+WY,2017,Motor Vehicle Theft,130
+WY,2018,Motor Vehicle Theft,128
+WY,2019,Motor Vehicle Theft,104
+WY,2020,Motor Vehicle Theft,149
+WY,2021,Motor Vehicle Theft,109
+AL,2017,Arson,104
+AL,2018,Arson,110
+AL,2019,Arson,88
+AL,2020,Arson,3
+AL,2021,Arson,24
+AK,2017,Arson,22
+AK,2018,Arson,43
+AK,2019,Arson,49
+AK,2020,Arson,42
+AK,2021,Arson,13
+AZ,2017,Arson,232
+AZ,2018,Arson,417
+AZ,2019,Arson,180
+AZ,2020,Arson,218
+AZ,2021,Arson,101
+AR,2017,Arson,40
+AR,2018,Arson,69
+AR,2019,Arson,65
+AR,2020,Arson,62
+AR,2021,Arson,68
+CA,2017,Arson,1573
+CA,2018,Arson,1529
+CA,2019,Arson,1575
+CA,2020,Arson,2051
+CA,2021,Arson,139
+CO,2017,Arson,287
+CO,2018,Arson,232
+CO,2019,Arson,223
+CO,2020,Arson,306
+CO,2021,Arson,302
+CT,2017,Arson,75
+CT,2018,Arson,82
+CT,2019,Arson,62
+CT,2020,Arson,67
+CT,2021,Arson,47
+DE,2017,Arson,32
+DE,2018,Arson,22
+DE,2019,Arson,24
+DE,2020,Arson,18
+DE,2021,Arson,20
+DC,2017,Arson,0
+DC,2018,Arson,1
+DC,2019,Arson,0
+DC,2020,Arson,0
+DC,2021,Arson,1
+FL,2017,Arson,241
+FL,2018,Arson,9
+FL,2019,Arson,252
+FL,2020,Arson,257
+FL,2021,Arson,0
+GA,2017,Arson,173
+GA,2018,Arson,139
+GA,2019,Arson,92
+GA,2020,Arson,110
+GA,2021,Arson,116
+HI,2017,Arson,23
+HI,2018,Arson,34
+HI,2019,Arson,44
+HI,2020,Arson,45
+HI,2021,Arson,29
+ID,2017,Arson,54
+ID,2018,Arson,58
+ID,2019,Arson,48
+ID,2020,Arson,46
+ID,2021,Arson,35
+IL,2017,Arson,58
+IL,2018,Arson,63
+IL,2019,Arson,16
+IL,2020,Arson,17
+IL,2021,Arson,53
+IN,2017,Arson,66
+IN,2018,Arson,76
+IN,2019,Arson,93
+IN,2020,Arson,53
+IN,2021,Arson,65
+IA,2017,Arson,101
+IA,2018,Arson,84
+IA,2019,Arson,98
+IA,2020,Arson,110
+IA,2021,Arson,86
+KS,2017,Arson,51
+KS,2018,Arson,16
+KS,2019,Arson,57
+KS,2020,Arson,55
+KS,2021,Arson,52
+KY,2017,Arson,69
+KY,2018,Arson,127
+KY,2019,Arson,170
+KY,2020,Arson,65
+KY,2021,Arson,65
+LA,2017,Arson,105
+LA,2018,Arson,110
+LA,2019,Arson,148
+LA,2020,Arson,85
+LA,2021,Arson,43
+ME,2017,Arson,60
+ME,2018,Arson,45
+ME,2019,Arson,46
+ME,2020,Arson,59
+ME,2021,Arson,57
+MD,2017,Arson,319
+MD,2018,Arson,310
+MD,2019,Arson,227
+MD,2020,Arson,9
+MD,2021,Arson,31
+MA,2017,Arson,89
+MA,2018,Arson,59
+MA,2019,Arson,66
+MA,2020,Arson,78
+MA,2021,Arson,77
+MI,2017,Arson,242
+MI,2018,Arson,208
+MI,2019,Arson,220
+MI,2020,Arson,192
+MI,2021,Arson,196
+MN,2017,Arson,97
+MN,2018,Arson,99
+MN,2019,Arson,105
+MN,2020,Arson,134
+MN,2021,Arson,127
+MS,2017,Arson,44
+MS,2018,Arson,38
+MS,2019,Arson,37
+MS,2020,Arson,24
+MS,2021,Arson,25
+MO,2017,Arson,130
+MO,2018,Arson,216
+MO,2019,Arson,120
+MO,2020,Arson,126
+MO,2021,Arson,140
+MT,2017,Arson,37
+MT,2018,Arson,30
+MT,2019,Arson,20
+MT,2020,Arson,34
+MT,2021,Arson,51
+NE,2017,Arson,14
+NE,2018,Arson,72
+NE,2019,Arson,63
+NE,2020,Arson,61
+NE,2021,Arson,49
+NV,2017,Arson,60
+NV,2018,Arson,79
+NV,2019,Arson,76
+NV,2020,Arson,100
+NV,2021,Arson,126
+NH,2017,Arson,30
+NH,2018,Arson,23
+NH,2019,Arson,15
+NH,2020,Arson,22
+NH,2021,Arson,13
+NJ,2017,Arson,135
+NJ,2018,Arson,144
+NJ,2019,Arson,121
+NJ,2020,Arson,159
+NJ,2021,Arson,15
+NM,2017,Arson,14
+NM,2018,Arson,43
+NM,2019,Arson,43
+NM,2020,Arson,27
+NM,2021,Arson,19
+NY,2017,Arson,297
+NY,2018,Arson,272
+NY,2019,Arson,220
+NY,2020,Arson,214
+NY,2021,Arson,81
+NC,2017,Arson,225
+NC,2018,Arson,208
+NC,2019,Arson,217
+NC,2020,Arson,245
+NC,2021,Arson,226
+ND,2017,Arson,18
+ND,2018,Arson,9
+ND,2019,Arson,21
+ND,2020,Arson,19
+ND,2021,Arson,33
+OH,2017,Arson,295
+OH,2018,Arson,283
+OH,2019,Arson,258
+OH,2020,Arson,111
+OH,2021,Arson,128
+OK,2017,Arson,148
+OK,2018,Arson,175
+OK,2019,Arson,183
+OK,2020,Arson,183
+OK,2021,Arson,143
+OR,2017,Arson,225
+OR,2018,Arson,301
+OR,2019,Arson,314
+OR,2020,Arson,423
+OR,2021,Arson,455
+PA,2017,Arson,362
+PA,2018,Arson,344
+PA,2019,Arson,130
+PA,2020,Arson,1
+PA,2021,Arson,24
+RI,2017,Arson,31
+RI,2018,Arson,12
+RI,2019,Arson,45
+RI,2020,Arson,34
+RI,2021,Arson,29
+SC,2017,Arson,122
+SC,2018,Arson,151
+SC,2019,Arson,127
+SC,2020,Arson,132
+SC,2021,Arson,115
+SD,2017,Arson,15
+SD,2018,Arson,23
+SD,2019,Arson,15
+SD,2020,Arson,26
+SD,2021,Arson,22
+TN,2017,Arson,192
+TN,2018,Arson,148
+TN,2019,Arson,161
+TN,2020,Arson,151
+TN,2021,Arson,175
+TX,2017,Arson,488
+TX,2018,Arson,431
+TX,2019,Arson,453
+TX,2020,Arson,453
+TX,2021,Arson,538
+UT,2017,Arson,69
+UT,2018,Arson,62
+UT,2019,Arson,85
+UT,2020,Arson,72
+UT,2021,Arson,86
+VT,2017,Arson,18
+VT,2018,Arson,21
+VT,2019,Arson,14
+VT,2020,Arson,29
+VT,2021,Arson,25
+VI,2018,Arson,0
+VA,2017,Arson,203
+VA,2018,Arson,200
+VA,2019,Arson,165
+VA,2020,Arson,149
+VA,2021,Arson,162
+WA,2017,Arson,173
+WA,2018,Arson,180
+WA,2019,Arson,187
+WA,2020,Arson,236
+WA,2021,Arson,261
+WV,2017,Arson,41
+WV,2018,Arson,28
+WV,2019,Arson,26
+WV,2020,Arson,31
+WV,2021,Arson,45
+WI,2017,Arson,198
+WI,2018,Arson,135
+WI,2019,Arson,131
+WI,2020,Arson,138
+WI,2021,Arson,118
+WY,2017,Arson,38
+WY,2018,Arson,19
+WY,2019,Arson,27
+WY,2020,Arson,18
+WY,2021,Arson,13
+AL,2017,Burglary,2880
+AL,2018,Burglary,2809
+AL,2019,Burglary,2198
+AL,2020,Burglary,65
+AL,2021,Burglary,696
+AK,2017,Burglary,623
+AK,2018,Burglary,602
+AK,2019,Burglary,603
+AK,2020,Burglary,471
+AK,2021,Burglary,151
+AZ,2017,Burglary,4251
+AZ,2018,Burglary,3993
+AZ,2019,Burglary,3871
+AZ,2020,Burglary,3542
+AZ,2021,Burglary,1153
+AR,2017,Burglary,2138
+AR,2018,Burglary,2020
+AR,2019,Burglary,1964
+AR,2020,Burglary,1702
+AR,2021,Burglary,1651
+CA,2017,Burglary,38214
+CA,2018,Burglary,35230
+CA,2019,Burglary,33741
+CA,2020,Burglary,26220
+CA,2021,Burglary,910
+CO,2017,Burglary,2511
+CO,2018,Burglary,2504
+CO,2019,Burglary,2690
+CO,2020,Burglary,2806
+CO,2021,Burglary,2428
+CT,2017,Burglary,2040
+CT,2018,Burglary,1681
+CT,2019,Burglary,1474
+CT,2020,Burglary,1146
+CT,2021,Burglary,984
+DE,2017,Burglary,954
+DE,2018,Burglary,704
+DE,2019,Burglary,797
+DE,2020,Burglary,643
+DE,2021,Burglary,446
+DC,2017,Burglary,1
+DC,2018,Burglary,0
+DC,2019,Burglary,0
+DC,2020,Burglary,1
+DC,2021,Burglary,1
+FL,2017,Burglary,16513
+FL,2018,Burglary,321
+FL,2019,Burglary,13560
+FL,2020,Burglary,12565
+FL,2021,Burglary,10
+GA,2017,Burglary,4735
+GA,2018,Burglary,3613
+GA,2019,Burglary,1663
+GA,2020,Burglary,1460
+GA,2021,Burglary,1745
+HI,2017,Burglary,436
+HI,2018,Burglary,440
+HI,2019,Burglary,437
+HI,2020,Burglary,342
+HI,2021,Burglary,204
+ID,2017,Burglary,958
+ID,2018,Burglary,866
+ID,2019,Burglary,764
+ID,2020,Burglary,607
+ID,2021,Burglary,565
+IL,2017,Burglary,876
+IL,2018,Burglary,1008
+IL,2019,Burglary,74
+IL,2020,Burglary,49
+IL,2021,Burglary,568
+IN,2017,Burglary,1901
+IN,2018,Burglary,1750
+IN,2019,Burglary,1433
+IN,2020,Burglary,1093
+IN,2021,Burglary,1101
+IA,2017,Burglary,1737
+IA,2018,Burglary,1133
+IA,2019,Burglary,1547
+IA,2020,Burglary,1476
+IA,2021,Burglary,1046
+KS,2017,Burglary,624
+KS,2018,Burglary,156
+KS,2019,Burglary,502
+KS,2020,Burglary,502
+KS,2021,Burglary,448
+KY,2017,Burglary,3032
+KY,2018,Burglary,2954
+KY,2019,Burglary,2776
+KY,2020,Burglary,2006
+KY,2021,Burglary,2121
+LA,2017,Burglary,4716
+LA,2018,Burglary,5828
+LA,2019,Burglary,5258
+LA,2020,Burglary,4070
+LA,2021,Burglary,2203
+ME,2017,Burglary,608
+ME,2018,Burglary,562
+ME,2019,Burglary,505
+ME,2020,Burglary,454
+ME,2021,Burglary,352
+MD,2017,Burglary,4807
+MD,2018,Burglary,3900
+MD,2019,Burglary,3670
+MD,2020,Burglary,403
+MD,2021,Burglary,605
+MA,2017,Burglary,2221
+MA,2018,Burglary,1919
+MA,2019,Burglary,1702
+MA,2020,Burglary,1307
+MA,2021,Burglary,1242
+MI,2017,Burglary,3221
+MI,2018,Burglary,3056
+MI,2019,Burglary,2584
+MI,2020,Burglary,2374
+MI,2021,Burglary,2083
+MN,2017,Burglary,2287
+MN,2018,Burglary,2045
+MN,2019,Burglary,2071
+MN,2020,Burglary,1981
+MN,2021,Burglary,1756
+MS,2017,Burglary,1333
+MS,2018,Burglary,1048
+MS,2019,Burglary,1137
+MS,2020,Burglary,743
+MS,2021,Burglary,594
+MO,2017,Burglary,3952
+MO,2018,Burglary,3443
+MO,2019,Burglary,3114
+MO,2020,Burglary,2707
+MO,2021,Burglary,2204
+MT,2017,Burglary,281
+MT,2018,Burglary,329
+MT,2019,Burglary,343
+MT,2020,Burglary,304
+MT,2021,Burglary,298
+NE,2017,Burglary,340
+NE,2018,Burglary,515
+NE,2019,Burglary,500
+NE,2020,Burglary,303
+NE,2021,Burglary,245
+NV,2017,Burglary,3168
+NV,2018,Burglary,3130
+NV,2019,Burglary,3276
+NV,2020,Burglary,2148
+NV,2021,Burglary,1751
+NH,2017,Burglary,378
+NH,2018,Burglary,326
+NH,2019,Burglary,249
+NH,2020,Burglary,234
+NH,2021,Burglary,176
+NJ,2017,Burglary,4055
+NJ,2018,Burglary,3338
+NJ,2019,Burglary,3310
+NJ,2020,Burglary,2783
+NJ,2021,Burglary,262
+NM,2017,Burglary,681
+NM,2018,Burglary,958
+NM,2019,Burglary,776
+NM,2020,Burglary,530
+NM,2021,Burglary,389
+NY,2017,Burglary,5414
+NY,2018,Burglary,4446
+NY,2019,Burglary,3929
+NY,2020,Burglary,4194
+NY,2021,Burglary,1030
+NC,2017,Burglary,9487
+NC,2018,Burglary,8985
+NC,2019,Burglary,5821
+NC,2020,Burglary,5757
+NC,2021,Burglary,5022
+ND,2017,Burglary,353
+ND,2018,Burglary,260
+ND,2019,Burglary,312
+ND,2020,Burglary,363
+ND,2021,Burglary,320
+OH,2017,Burglary,4580
+OH,2018,Burglary,3926
+OH,2019,Burglary,3769
+OH,2020,Burglary,2844
+OH,2021,Burglary,2346
+OK,2017,Burglary,2311
+OK,2018,Burglary,2453
+OK,2019,Burglary,2461
+OK,2020,Burglary,2298
+OK,2021,Burglary,2122
+OR,2017,Burglary,1529
+OR,2018,Burglary,1981
+OR,2019,Burglary,2039
+OR,2020,Burglary,2152
+OR,2021,Burglary,1830
+PA,2017,Burglary,6168
+PA,2018,Burglary,5252
+PA,2019,Burglary,1827
+PA,2020,Burglary,31
+PA,2021,Burglary,159
+RI,2017,Burglary,585
+RI,2018,Burglary,497
+RI,2019,Burglary,485
+RI,2020,Burglary,386
+RI,2021,Burglary,350
+SC,2017,Burglary,3686
+SC,2018,Burglary,3460
+SC,2019,Burglary,3278
+SC,2020,Burglary,2856
+SC,2021,Burglary,2339
+SD,2017,Burglary,443
+SD,2018,Burglary,299
+SD,2019,Burglary,287
+SD,2020,Burglary,302
+SD,2021,Burglary,191
+TN,2017,Burglary,5473
+TN,2018,Burglary,4776
+TN,2019,Burglary,4837
+TN,2020,Burglary,4332
+TN,2021,Burglary,3735
+TX,2017,Burglary,11260
+TX,2018,Burglary,9557
+TX,2019,Burglary,8904
+TX,2020,Burglary,7952
+TX,2021,Burglary,7238
+UT,2017,Burglary,1039
+UT,2018,Burglary,951
+UT,2019,Burglary,891
+UT,2020,Burglary,788
+UT,2021,Burglary,723
+VT,2017,Burglary,294
+VT,2018,Burglary,228
+VT,2019,Burglary,255
+VT,2020,Burglary,202
+VT,2021,Burglary,188
+VI,2018,Burglary,13
+VA,2017,Burglary,2905
+VA,2018,Burglary,2410
+VA,2019,Burglary,2110
+VA,2020,Burglary,1757
+VA,2021,Burglary,1582
+WA,2017,Burglary,4774
+WA,2018,Burglary,4545
+WA,2019,Burglary,4106
+WA,2020,Burglary,4540
+WA,2021,Burglary,4208
+WV,2017,Burglary,851
+WV,2018,Burglary,592
+WV,2019,Burglary,506
+WV,2020,Burglary,563
+WV,2021,Burglary,526
+WI,2017,Burglary,2673
+WI,2018,Burglary,2119
+WI,2019,Burglary,1780
+WI,2020,Burglary,1697
+WI,2021,Burglary,1250
+WY,2017,Burglary,217
+WY,2018,Burglary,243
+WY,2019,Burglary,229
+WY,2020,Burglary,211
+WY,2021,Burglary,115
+AL,2017,Embezzlement,152
+AL,2018,Embezzlement,150
+AL,2019,Embezzlement,140
+AL,2020,Embezzlement,7
+AL,2021,Embezzlement,4
+AK,2017,Embezzlement,77
+AK,2018,Embezzlement,54
+AK,2019,Embezzlement,43
+AK,2020,Embezzlement,35
+AK,2021,Embezzlement,3
+AZ,2017,Embezzlement,457
+AZ,2018,Embezzlement,854
+AZ,2019,Embezzlement,489
+AZ,2020,Embezzlement,345
+AZ,2021,Embezzlement,54
+AR,2017,Embezzlement,60
+AR,2018,Embezzlement,54
+AR,2019,Embezzlement,52
+AR,2020,Embezzlement,29
+AR,2021,Embezzlement,26
+CA,2017,Embezzlement,997
+CA,2018,Embezzlement,921
+CA,2019,Embezzlement,988
+CA,2020,Embezzlement,680
+CA,2021,Embezzlement,22
+CO,2017,Embezzlement,128
+CO,2018,Embezzlement,117
+CO,2019,Embezzlement,74
+CO,2020,Embezzlement,45
+CO,2021,Embezzlement,72
+CT,2017,Embezzlement,147
+CT,2018,Embezzlement,147
+CT,2019,Embezzlement,134
+CT,2020,Embezzlement,75
+CT,2021,Embezzlement,66
+DE,2017,Embezzlement,221
+DE,2018,Embezzlement,163
+DE,2019,Embezzlement,164
+DE,2020,Embezzlement,92
+DE,2021,Embezzlement,78
+DC,2017,Embezzlement,0
+DC,2018,Embezzlement,0
+DC,2019,Embezzlement,0
+DC,2020,Embezzlement,0
+DC,2021,Embezzlement,0
+FL,2017,Embezzlement,1054
+FL,2018,Embezzlement,18
+FL,2019,Embezzlement,1047
+FL,2020,Embezzlement,653
+FL,2021,Embezzlement,1
+GA,2017,Embezzlement,325
+GA,2018,Embezzlement,208
+GA,2019,Embezzlement,46
+GA,2020,Embezzlement,8
+GA,2021,Embezzlement,29
+HI,2017,Embezzlement,14
+HI,2018,Embezzlement,8
+HI,2019,Embezzlement,1
+HI,2020,Embezzlement,4
+HI,2021,Embezzlement,7
+ID,2017,Embezzlement,51
+ID,2018,Embezzlement,43
+ID,2019,Embezzlement,41
+ID,2020,Embezzlement,34
+ID,2021,Embezzlement,33
+IL,2017,Embezzlement,1
+IL,2018,Embezzlement,0
+IL,2019,Embezzlement,0
+IL,2020,Embezzlement,0
+IL,2021,Embezzlement,35
+IN,2017,Embezzlement,271
+IN,2018,Embezzlement,210
+IN,2019,Embezzlement,135
+IN,2020,Embezzlement,79
+IN,2021,Embezzlement,78
+IA,2017,Embezzlement,79
+IA,2018,Embezzlement,56
+IA,2019,Embezzlement,56
+IA,2020,Embezzlement,40
+IA,2021,Embezzlement,62
+KS,2017,Embezzlement,111
+KS,2018,Embezzlement,33
+KS,2019,Embezzlement,55
+KS,2020,Embezzlement,28
+KS,2021,Embezzlement,25
+KY,2017,Embezzlement,415
+KY,2018,Embezzlement,414
+KY,2019,Embezzlement,368
+KY,2020,Embezzlement,273
+KY,2021,Embezzlement,174
+LA,2017,Embezzlement,71
+LA,2018,Embezzlement,140
+LA,2019,Embezzlement,131
+LA,2020,Embezzlement,83
+LA,2021,Embezzlement,67
+ME,2017,Embezzlement,41
+ME,2018,Embezzlement,48
+ME,2019,Embezzlement,41
+ME,2020,Embezzlement,20
+ME,2021,Embezzlement,15
+MD,2017,Embezzlement,140
+MD,2018,Embezzlement,114
+MD,2019,Embezzlement,120
+MD,2020,Embezzlement,8
+MD,2021,Embezzlement,52
+MA,2017,Embezzlement,127
+MA,2018,Embezzlement,113
+MA,2019,Embezzlement,86
+MA,2020,Embezzlement,46
+MA,2021,Embezzlement,35
+MI,2017,Embezzlement,1187
+MI,2018,Embezzlement,1171
+MI,2019,Embezzlement,1157
+MI,2020,Embezzlement,655
+MI,2021,Embezzlement,615
+MN,2017,Embezzlement,22
+MN,2018,Embezzlement,16
+MN,2019,Embezzlement,26
+MN,2020,Embezzlement,51
+MN,2021,Embezzlement,63
+MS,2017,Embezzlement,403
+MS,2018,Embezzlement,298
+MS,2019,Embezzlement,340
+MS,2020,Embezzlement,177
+MS,2021,Embezzlement,216
+MO,2017,Embezzlement,302
+MO,2018,Embezzlement,249
+MO,2019,Embezzlement,238
+MO,2020,Embezzlement,205
+MO,2021,Embezzlement,171
+MT,2017,Embezzlement,36
+MT,2018,Embezzlement,43
+MT,2019,Embezzlement,35
+MT,2020,Embezzlement,32
+MT,2021,Embezzlement,28
+NE,2017,Embezzlement,39
+NE,2018,Embezzlement,68
+NE,2019,Embezzlement,69
+NE,2020,Embezzlement,26
+NE,2021,Embezzlement,21
+NV,2017,Embezzlement,237
+NV,2018,Embezzlement,289
+NV,2019,Embezzlement,362
+NV,2020,Embezzlement,242
+NV,2021,Embezzlement,164
+NH,2017,Embezzlement,136
+NH,2018,Embezzlement,103
+NH,2019,Embezzlement,83
+NH,2020,Embezzlement,62
+NH,2021,Embezzlement,44
+NJ,2017,Embezzlement,273
+NJ,2018,Embezzlement,248
+NJ,2019,Embezzlement,212
+NJ,2020,Embezzlement,107
+NJ,2021,Embezzlement,22
+NM,2017,Embezzlement,74
+NM,2018,Embezzlement,128
+NM,2019,Embezzlement,131
+NM,2020,Embezzlement,61
+NM,2021,Embezzlement,54
+NY,2017,Embezzlement,48
+NY,2018,Embezzlement,28
+NY,2019,Embezzlement,20
+NY,2020,Embezzlement,20
+NY,2021,Embezzlement,16
+NC,2017,Embezzlement,1350
+NC,2018,Embezzlement,1204
+NC,2019,Embezzlement,773
+NC,2020,Embezzlement,633
+NC,2021,Embezzlement,591
+ND,2017,Embezzlement,56
+ND,2018,Embezzlement,35
+ND,2019,Embezzlement,52
+ND,2020,Embezzlement,36
+ND,2021,Embezzlement,28
+OH,2017,Embezzlement,22
+OH,2018,Embezzlement,18
+OH,2019,Embezzlement,22
+OH,2020,Embezzlement,2
+OH,2021,Embezzlement,3
+OK,2017,Embezzlement,410
+OK,2018,Embezzlement,364
+OK,2019,Embezzlement,409
+OK,2020,Embezzlement,308
+OK,2021,Embezzlement,129
+OR,2017,Embezzlement,51
+OR,2018,Embezzlement,73
+OR,2019,Embezzlement,99
+OR,2020,Embezzlement,58
+OR,2021,Embezzlement,40
+PA,2017,Embezzlement,479
+PA,2018,Embezzlement,447
+PA,2019,Embezzlement,172
+PA,2020,Embezzlement,1
+PA,2021,Embezzlement,9
+RI,2017,Embezzlement,110
+RI,2018,Embezzlement,75
+RI,2019,Embezzlement,108
+RI,2020,Embezzlement,46
+RI,2021,Embezzlement,49
+SC,2017,Embezzlement,419
+SC,2018,Embezzlement,360
+SC,2019,Embezzlement,439
+SC,2020,Embezzlement,227
+SC,2021,Embezzlement,186
+SD,2017,Embezzlement,38
+SD,2018,Embezzlement,31
+SD,2019,Embezzlement,24
+SD,2020,Embezzlement,18
+SD,2021,Embezzlement,11
+TN,2017,Embezzlement,688
+TN,2018,Embezzlement,751
+TN,2019,Embezzlement,812
+TN,2020,Embezzlement,459
+TN,2021,Embezzlement,391
+TX,2017,Embezzlement,812
+TX,2018,Embezzlement,456
+TX,2019,Embezzlement,345
+TX,2020,Embezzlement,214
+TX,2021,Embezzlement,210
+UT,2017,Embezzlement,34
+UT,2018,Embezzlement,37
+UT,2019,Embezzlement,48
+UT,2020,Embezzlement,35
+UT,2021,Embezzlement,17
+VT,2017,Embezzlement,49
+VT,2018,Embezzlement,57
+VT,2019,Embezzlement,60
+VT,2020,Embezzlement,36
+VT,2021,Embezzlement,36
+VI,2018,Embezzlement,1
+VA,2017,Embezzlement,1520
+VA,2018,Embezzlement,1318
+VA,2019,Embezzlement,1166
+VA,2020,Embezzlement,790
+VA,2021,Embezzlement,615
+WA,2017,Embezzlement,52
+WA,2018,Embezzlement,61
+WA,2019,Embezzlement,39
+WA,2020,Embezzlement,23
+WA,2021,Embezzlement,16
+WV,2017,Embezzlement,128
+WV,2018,Embezzlement,63
+WV,2019,Embezzlement,41
+WV,2020,Embezzlement,18
+WV,2021,Embezzlement,13
+WI,2017,Embezzlement,330
+WI,2018,Embezzlement,379
+WI,2019,Embezzlement,356
+WI,2020,Embezzlement,298
+WI,2021,Embezzlement,266
+WY,2017,Embezzlement,18
+WY,2018,Embezzlement,6
+WY,2019,Embezzlement,1
+WY,2020,Embezzlement,2
+WY,2021,Embezzlement,0
+AL,2017,Forgery and Counterfeiting,1109
+AL,2018,Forgery and Counterfeiting,983
+AL,2019,Forgery and Counterfeiting,846
+AL,2020,Forgery and Counterfeiting,34
+AL,2021,Forgery and Counterfeiting,195
+AK,2017,Forgery and Counterfeiting,113
+AK,2018,Forgery and Counterfeiting,154
+AK,2019,Forgery and Counterfeiting,78
+AK,2020,Forgery and Counterfeiting,53
+AK,2021,Forgery and Counterfeiting,7
+AZ,2017,Forgery and Counterfeiting,1219
+AZ,2018,Forgery and Counterfeiting,1164
+AZ,2019,Forgery and Counterfeiting,881
+AZ,2020,Forgery and Counterfeiting,610
+AZ,2021,Forgery and Counterfeiting,194
+AR,2017,Forgery and Counterfeiting,859
+AR,2018,Forgery and Counterfeiting,905
+AR,2019,Forgery and Counterfeiting,880
+AR,2020,Forgery and Counterfeiting,618
+AR,2021,Forgery and Counterfeiting,495
+CA,2017,Forgery and Counterfeiting,4449
+CA,2018,Forgery and Counterfeiting,4118
+CA,2019,Forgery and Counterfeiting,3824
+CA,2020,Forgery and Counterfeiting,2753
+CA,2021,Forgery and Counterfeiting,162
+CO,2017,Forgery and Counterfeiting,779
+CO,2018,Forgery and Counterfeiting,781
+CO,2019,Forgery and Counterfeiting,801
+CO,2020,Forgery and Counterfeiting,529
+CO,2021,Forgery and Counterfeiting,367
+CT,2017,Forgery and Counterfeiting,676
+CT,2018,Forgery and Counterfeiting,600
+CT,2019,Forgery and Counterfeiting,474
+CT,2020,Forgery and Counterfeiting,294
+CT,2021,Forgery and Counterfeiting,211
+DE,2017,Forgery and Counterfeiting,280
+DE,2018,Forgery and Counterfeiting,216
+DE,2019,Forgery and Counterfeiting,239
+DE,2020,Forgery and Counterfeiting,122
+DE,2021,Forgery and Counterfeiting,98
+DC,2017,Forgery and Counterfeiting,2
+DC,2018,Forgery and Counterfeiting,3
+DC,2019,Forgery and Counterfeiting,2
+DC,2020,Forgery and Counterfeiting,0
+DC,2021,Forgery and Counterfeiting,1
+FL,2017,Forgery and Counterfeiting,2030
+FL,2018,Forgery and Counterfeiting,64
+FL,2019,Forgery and Counterfeiting,1808
+FL,2020,Forgery and Counterfeiting,1215
+FL,2021,Forgery and Counterfeiting,5
+GA,2017,Forgery and Counterfeiting,2697
+GA,2018,Forgery and Counterfeiting,2083
+GA,2019,Forgery and Counterfeiting,1124
+GA,2020,Forgery and Counterfeiting,724
+GA,2021,Forgery and Counterfeiting,887
+HI,2017,Forgery and Counterfeiting,81
+HI,2018,Forgery and Counterfeiting,78
+HI,2019,Forgery and Counterfeiting,83
+HI,2020,Forgery and Counterfeiting,35
+HI,2021,Forgery and Counterfeiting,60
+ID,2017,Forgery and Counterfeiting,150
+ID,2018,Forgery and Counterfeiting,143
+ID,2019,Forgery and Counterfeiting,105
+ID,2020,Forgery and Counterfeiting,59
+ID,2021,Forgery and Counterfeiting,75
+IL,2017,Forgery and Counterfeiting,106
+IL,2018,Forgery and Counterfeiting,124
+IL,2019,Forgery and Counterfeiting,16
+IL,2020,Forgery and Counterfeiting,5
+IL,2021,Forgery and Counterfeiting,104
+IN,2017,Forgery and Counterfeiting,1149
+IN,2018,Forgery and Counterfeiting,987
+IN,2019,Forgery and Counterfeiting,774
+IN,2020,Forgery and Counterfeiting,530
+IN,2021,Forgery and Counterfeiting,214
+IA,2017,Forgery and Counterfeiting,746
+IA,2018,Forgery and Counterfeiting,454
+IA,2019,Forgery and Counterfeiting,568
+IA,2020,Forgery and Counterfeiting,404
+IA,2021,Forgery and Counterfeiting,275
+KS,2017,Forgery and Counterfeiting,264
+KS,2018,Forgery and Counterfeiting,87
+KS,2019,Forgery and Counterfeiting,198
+KS,2020,Forgery and Counterfeiting,182
+KS,2021,Forgery and Counterfeiting,111
+KY,2017,Forgery and Counterfeiting,1157
+KY,2018,Forgery and Counterfeiting,1381
+KY,2019,Forgery and Counterfeiting,1106
+KY,2020,Forgery and Counterfeiting,477
+KY,2021,Forgery and Counterfeiting,505
+LA,2017,Forgery and Counterfeiting,654
+LA,2018,Forgery and Counterfeiting,769
+LA,2019,Forgery and Counterfeiting,690
+LA,2020,Forgery and Counterfeiting,427
+LA,2021,Forgery and Counterfeiting,197
+ME,2017,Forgery and Counterfeiting,198
+ME,2018,Forgery and Counterfeiting,209
+ME,2019,Forgery and Counterfeiting,146
+ME,2020,Forgery and Counterfeiting,118
+ME,2021,Forgery and Counterfeiting,68
+MD,2017,Forgery and Counterfeiting,513
+MD,2018,Forgery and Counterfeiting,462
+MD,2019,Forgery and Counterfeiting,399
+MD,2020,Forgery and Counterfeiting,40
+MD,2021,Forgery and Counterfeiting,55
+MA,2017,Forgery and Counterfeiting,467
+MA,2018,Forgery and Counterfeiting,448
+MA,2019,Forgery and Counterfeiting,457
+MA,2020,Forgery and Counterfeiting,254
+MA,2021,Forgery and Counterfeiting,201
+MI,2017,Forgery and Counterfeiting,661
+MI,2018,Forgery and Counterfeiting,708
+MI,2019,Forgery and Counterfeiting,702
+MI,2020,Forgery and Counterfeiting,502
+MI,2021,Forgery and Counterfeiting,281
+MN,2017,Forgery and Counterfeiting,1420
+MN,2018,Forgery and Counterfeiting,1092
+MN,2019,Forgery and Counterfeiting,1115
+MN,2020,Forgery and Counterfeiting,930
+MN,2021,Forgery and Counterfeiting,649
+MS,2017,Forgery and Counterfeiting,368
+MS,2018,Forgery and Counterfeiting,314
+MS,2019,Forgery and Counterfeiting,335
+MS,2020,Forgery and Counterfeiting,129
+MS,2021,Forgery and Counterfeiting,118
+MO,2017,Forgery and Counterfeiting,1280
+MO,2018,Forgery and Counterfeiting,1437
+MO,2019,Forgery and Counterfeiting,945
+MO,2020,Forgery and Counterfeiting,765
+MO,2021,Forgery and Counterfeiting,738
+MT,2017,Forgery and Counterfeiting,109
+MT,2018,Forgery and Counterfeiting,116
+MT,2019,Forgery and Counterfeiting,177
+MT,2020,Forgery and Counterfeiting,114
+MT,2021,Forgery and Counterfeiting,91
+NE,2017,Forgery and Counterfeiting,171
+NE,2018,Forgery and Counterfeiting,301
+NE,2019,Forgery and Counterfeiting,283
+NE,2020,Forgery and Counterfeiting,145
+NE,2021,Forgery and Counterfeiting,141
+NV,2017,Forgery and Counterfeiting,539
+NV,2018,Forgery and Counterfeiting,431
+NV,2019,Forgery and Counterfeiting,501
+NV,2020,Forgery and Counterfeiting,409
+NV,2021,Forgery and Counterfeiting,263
+NH,2017,Forgery and Counterfeiting,326
+NH,2018,Forgery and Counterfeiting,247
+NH,2019,Forgery and Counterfeiting,244
+NH,2020,Forgery and Counterfeiting,165
+NH,2021,Forgery and Counterfeiting,123
+NJ,2017,Forgery and Counterfeiting,1034
+NJ,2018,Forgery and Counterfeiting,924
+NJ,2019,Forgery and Counterfeiting,950
+NJ,2020,Forgery and Counterfeiting,580
+NJ,2021,Forgery and Counterfeiting,54
+NM,2017,Forgery and Counterfeiting,154
+NM,2018,Forgery and Counterfeiting,191
+NM,2019,Forgery and Counterfeiting,142
+NM,2020,Forgery and Counterfeiting,38
+NM,2021,Forgery and Counterfeiting,20
+NY,2017,Forgery and Counterfeiting,2676
+NY,2018,Forgery and Counterfeiting,2118
+NY,2019,Forgery and Counterfeiting,1755
+NY,2020,Forgery and Counterfeiting,1350
+NY,2021,Forgery and Counterfeiting,230
+NC,2017,Forgery and Counterfeiting,1624
+NC,2018,Forgery and Counterfeiting,1419
+NC,2019,Forgery and Counterfeiting,835
+NC,2020,Forgery and Counterfeiting,647
+NC,2021,Forgery and Counterfeiting,481
+ND,2017,Forgery and Counterfeiting,161
+ND,2018,Forgery and Counterfeiting,146
+ND,2019,Forgery and Counterfeiting,162
+ND,2020,Forgery and Counterfeiting,164
+ND,2021,Forgery and Counterfeiting,108
+OH,2017,Forgery and Counterfeiting,1007
+OH,2018,Forgery and Counterfeiting,879
+OH,2019,Forgery and Counterfeiting,549
+OH,2020,Forgery and Counterfeiting,244
+OH,2021,Forgery and Counterfeiting,155
+OK,2017,Forgery and Counterfeiting,617
+OK,2018,Forgery and Counterfeiting,557
+OK,2019,Forgery and Counterfeiting,520
+OK,2020,Forgery and Counterfeiting,393
+OK,2021,Forgery and Counterfeiting,234
+OR,2017,Forgery and Counterfeiting,686
+OR,2018,Forgery and Counterfeiting,722
+OR,2019,Forgery and Counterfeiting,752
+OR,2020,Forgery and Counterfeiting,487
+OR,2021,Forgery and Counterfeiting,343
+PA,2017,Forgery and Counterfeiting,2428
+PA,2018,Forgery and Counterfeiting,2267
+PA,2019,Forgery and Counterfeiting,1002
+PA,2020,Forgery and Counterfeiting,24
+PA,2021,Forgery and Counterfeiting,41
+RI,2017,Forgery and Counterfeiting,97
+RI,2018,Forgery and Counterfeiting,124
+RI,2019,Forgery and Counterfeiting,160
+RI,2020,Forgery and Counterfeiting,93
+RI,2021,Forgery and Counterfeiting,117
+SC,2017,Forgery and Counterfeiting,1360
+SC,2018,Forgery and Counterfeiting,1226
+SC,2019,Forgery and Counterfeiting,1226
+SC,2020,Forgery and Counterfeiting,855
+SC,2021,Forgery and Counterfeiting,728
+SD,2017,Forgery and Counterfeiting,104
+SD,2018,Forgery and Counterfeiting,127
+SD,2019,Forgery and Counterfeiting,163
+SD,2020,Forgery and Counterfeiting,126
+SD,2021,Forgery and Counterfeiting,128
+TN,2017,Forgery and Counterfeiting,1893
+TN,2018,Forgery and Counterfeiting,1836
+TN,2019,Forgery and Counterfeiting,2069
+TN,2020,Forgery and Counterfeiting,1425
+TN,2021,Forgery and Counterfeiting,1368
+TX,2017,Forgery and Counterfeiting,4687
+TX,2018,Forgery and Counterfeiting,4596
+TX,2019,Forgery and Counterfeiting,4081
+TX,2020,Forgery and Counterfeiting,2706
+TX,2021,Forgery and Counterfeiting,2043
+UT,2017,Forgery and Counterfeiting,845
+UT,2018,Forgery and Counterfeiting,747
+UT,2019,Forgery and Counterfeiting,645
+UT,2020,Forgery and Counterfeiting,493
+UT,2021,Forgery and Counterfeiting,401
+VT,2017,Forgery and Counterfeiting,63
+VT,2018,Forgery and Counterfeiting,52
+VT,2019,Forgery and Counterfeiting,48
+VT,2020,Forgery and Counterfeiting,39
+VT,2021,Forgery and Counterfeiting,34
+VI,2018,Forgery and Counterfeiting,1
+VA,2017,Forgery and Counterfeiting,1854
+VA,2018,Forgery and Counterfeiting,1610
+VA,2019,Forgery and Counterfeiting,1503
+VA,2020,Forgery and Counterfeiting,1013
+VA,2021,Forgery and Counterfeiting,809
+WA,2017,Forgery and Counterfeiting,894
+WA,2018,Forgery and Counterfeiting,747
+WA,2019,Forgery and Counterfeiting,734
+WA,2020,Forgery and Counterfeiting,467
+WA,2021,Forgery and Counterfeiting,287
+WV,2017,Forgery and Counterfeiting,319
+WV,2018,Forgery and Counterfeiting,255
+WV,2019,Forgery and Counterfeiting,198
+WV,2020,Forgery and Counterfeiting,160
+WV,2021,Forgery and Counterfeiting,107
+WI,2017,Forgery and Counterfeiting,1014
+WI,2018,Forgery and Counterfeiting,920
+WI,2019,Forgery and Counterfeiting,951
+WI,2020,Forgery and Counterfeiting,602
+WI,2021,Forgery and Counterfeiting,388
+WY,2017,Forgery and Counterfeiting,49
+WY,2018,Forgery and Counterfeiting,36
+WY,2019,Forgery and Counterfeiting,29
+WY,2020,Forgery and Counterfeiting,19
+WY,2021,Forgery and Counterfeiting,12
+AL,2017,Fraud,2819
+AL,2018,Fraud,2611
+AL,2019,Fraud,2309
+AL,2020,Fraud,56
+AL,2021,Fraud,431
+AK,2017,Fraud,219
+AK,2018,Fraud,201
+AK,2019,Fraud,121
+AK,2020,Fraud,199
+AK,2021,Fraud,19
+AZ,2017,Fraud,2142
+AZ,2018,Fraud,2183
+AZ,2019,Fraud,2188
+AZ,2020,Fraud,1467
+AZ,2021,Fraud,609
+AR,2017,Fraud,918
+AR,2018,Fraud,972
+AR,2019,Fraud,951
+AR,2020,Fraud,625
+AR,2021,Fraud,502
+CA,2017,Fraud,6936
+CA,2018,Fraud,6105
+CA,2019,Fraud,6863
+CA,2020,Fraud,5042
+CA,2021,Fraud,451
+CO,2017,Fraud,2643
+CO,2018,Fraud,2803
+CO,2019,Fraud,3010
+CO,2020,Fraud,1989
+CO,2021,Fraud,1636
+CT,2017,Fraud,944
+CT,2018,Fraud,979
+CT,2019,Fraud,866
+CT,2020,Fraud,563
+CT,2021,Fraud,449
+DE,2017,Fraud,1830
+DE,2018,Fraud,1382
+DE,2019,Fraud,1335
+DE,2020,Fraud,827
+DE,2021,Fraud,951
+DC,2017,Fraud,8
+DC,2018,Fraud,3
+DC,2019,Fraud,2
+DC,2020,Fraud,2
+DC,2021,Fraud,1
+FL,2017,Fraud,11601
+FL,2018,Fraud,489
+FL,2019,Fraud,11226
+FL,2020,Fraud,8230
+FL,2021,Fraud,16
+GA,2017,Fraud,3483
+GA,2018,Fraud,2944
+GA,2019,Fraud,1465
+GA,2020,Fraud,1715
+GA,2021,Fraud,3138
+HI,2017,Fraud,150
+HI,2018,Fraud,166
+HI,2019,Fraud,131
+HI,2020,Fraud,115
+HI,2021,Fraud,170
+ID,2017,Fraud,323
+ID,2018,Fraud,367
+ID,2019,Fraud,357
+ID,2020,Fraud,404
+ID,2021,Fraud,390
+IL,2017,Fraud,227
+IL,2018,Fraud,247
+IL,2019,Fraud,33
+IL,2020,Fraud,27
+IL,2021,Fraud,712
+IN,2017,Fraud,1473
+IN,2018,Fraud,1553
+IN,2019,Fraud,1321
+IN,2020,Fraud,685
+IN,2021,Fraud,750
+IA,2017,Fraud,815
+IA,2018,Fraud,633
+IA,2019,Fraud,684
+IA,2020,Fraud,461
+IA,2021,Fraud,756
+KS,2017,Fraud,598
+KS,2018,Fraud,340
+KS,2019,Fraud,425
+KS,2020,Fraud,386
+KS,2021,Fraud,270
+KY,2017,Fraud,1467
+KY,2018,Fraud,1755
+KY,2019,Fraud,1469
+KY,2020,Fraud,779
+KY,2021,Fraud,1051
+LA,2017,Fraud,1218
+LA,2018,Fraud,1339
+LA,2019,Fraud,1167
+LA,2020,Fraud,997
+LA,2021,Fraud,347
+ME,2017,Fraud,522
+ME,2018,Fraud,482
+ME,2019,Fraud,403
+ME,2020,Fraud,301
+ME,2021,Fraud,222
+MD,2017,Fraud,1080
+MD,2018,Fraud,926
+MD,2019,Fraud,861
+MD,2020,Fraud,87
+MD,2021,Fraud,162
+MA,2017,Fraud,1313
+MA,2018,Fraud,1175
+MA,2019,Fraud,1073
+MA,2020,Fraud,615
+MA,2021,Fraud,648
+MI,2017,Fraud,3988
+MI,2018,Fraud,3847
+MI,2019,Fraud,3794
+MI,2020,Fraud,2236
+MI,2021,Fraud,1604
+MN,2017,Fraud,2640
+MN,2018,Fraud,3495
+MN,2019,Fraud,4627
+MN,2020,Fraud,3056
+MN,2021,Fraud,2391
+MS,2017,Fraud,918
+MS,2018,Fraud,757
+MS,2019,Fraud,801
+MS,2020,Fraud,369
+MS,2021,Fraud,471
+MO,2017,Fraud,2015
+MO,2018,Fraud,2221
+MO,2019,Fraud,2005
+MO,2020,Fraud,1261
+MO,2021,Fraud,1276
+MT,2017,Fraud,260
+MT,2018,Fraud,205
+MT,2019,Fraud,193
+MT,2020,Fraud,125
+MT,2021,Fraud,146
+NE,2017,Fraud,482
+NE,2018,Fraud,1372
+NE,2019,Fraud,1242
+NE,2020,Fraud,593
+NE,2021,Fraud,409
+NV,2017,Fraud,1632
+NV,2018,Fraud,1827
+NV,2019,Fraud,2084
+NV,2020,Fraud,1399
+NV,2021,Fraud,955
+NH,2017,Fraud,876
+NH,2018,Fraud,783
+NH,2019,Fraud,750
+NH,2020,Fraud,456
+NH,2021,Fraud,318
+NJ,2017,Fraud,3536
+NJ,2018,Fraud,3752
+NJ,2019,Fraud,3890
+NJ,2020,Fraud,1939
+NJ,2021,Fraud,90
+NM,2017,Fraud,244
+NM,2018,Fraud,445
+NM,2019,Fraud,372
+NM,2020,Fraud,116
+NM,2021,Fraud,99
+NY,2017,Fraud,4335
+NY,2018,Fraud,4015
+NY,2019,Fraud,3530
+NY,2020,Fraud,1516
+NY,2021,Fraud,275
+NC,2017,Fraud,8433
+NC,2018,Fraud,7283
+NC,2019,Fraud,3462
+NC,2020,Fraud,2626
+NC,2021,Fraud,2317
+ND,2017,Fraud,428
+ND,2018,Fraud,374
+ND,2019,Fraud,504
+ND,2020,Fraud,542
+ND,2021,Fraud,538
+OH,2017,Fraud,2362
+OH,2018,Fraud,2287
+OH,2019,Fraud,1984
+OH,2020,Fraud,1201
+OH,2021,Fraud,972
+OK,2017,Fraud,1509
+OK,2018,Fraud,1367
+OK,2019,Fraud,1183
+OK,2020,Fraud,1046
+OK,2021,Fraud,652
+OR,2017,Fraud,1996
+OR,2018,Fraud,2190
+OR,2019,Fraud,2295
+OR,2020,Fraud,1303
+OR,2021,Fraud,1136
+PA,2017,Fraud,7800
+PA,2018,Fraud,8277
+PA,2019,Fraud,2592
+PA,2020,Fraud,32
+PA,2021,Fraud,181
+RI,2017,Fraud,491
+RI,2018,Fraud,554
+RI,2019,Fraud,592
+RI,2020,Fraud,227
+RI,2021,Fraud,252
+SC,2017,Fraud,3943
+SC,2018,Fraud,3630
+SC,2019,Fraud,3533
+SC,2020,Fraud,2525
+SC,2021,Fraud,2068
+SD,2017,Fraud,732
+SD,2018,Fraud,816
+SD,2019,Fraud,779
+SD,2020,Fraud,581
+SD,2021,Fraud,550
+TN,2017,Fraud,5642
+TN,2018,Fraud,5476
+TN,2019,Fraud,5111
+TN,2020,Fraud,3770
+TN,2021,Fraud,3418
+TX,2017,Fraud,6456
+TX,2018,Fraud,6706
+TX,2019,Fraud,7095
+TX,2020,Fraud,4964
+TX,2021,Fraud,5483
+UT,2017,Fraud,1060
+UT,2018,Fraud,1065
+UT,2019,Fraud,894
+UT,2020,Fraud,706
+UT,2021,Fraud,644
+VT,2017,Fraud,268
+VT,2018,Fraud,321
+VT,2019,Fraud,324
+VT,2020,Fraud,179
+VT,2021,Fraud,138
+VI,2018,Fraud,0
+VA,2017,Fraud,5332
+VA,2018,Fraud,5064
+VA,2019,Fraud,4872
+VA,2020,Fraud,3674
+VA,2021,Fraud,3678
+WA,2017,Fraud,1086
+WA,2018,Fraud,1210
+WA,2019,Fraud,1299
+WA,2020,Fraud,913
+WA,2021,Fraud,634
+WV,2017,Fraud,565
+WV,2018,Fraud,328
+WV,2019,Fraud,260
+WV,2020,Fraud,209
+WV,2021,Fraud,156
+WI,2017,Fraud,2706
+WI,2018,Fraud,2258
+WI,2019,Fraud,2094
+WI,2020,Fraud,1625
+WI,2021,Fraud,1312
+WY,2017,Fraud,158
+WY,2018,Fraud,127
+WY,2019,Fraud,112
+WY,2020,Fraud,97
+WY,2021,Fraud,35
+AL,2017,Larceny - Theft,13959
+AL,2018,Larceny - Theft,14513
+AL,2019,Larceny - Theft,13555
+AL,2020,Larceny - Theft,435
+AL,2021,Larceny - Theft,2561
+AK,2017,Larceny - Theft,2356
+AK,2018,Larceny - Theft,2392
+AK,2019,Larceny - Theft,1885
+AK,2020,Larceny - Theft,1545
+AK,2021,Larceny - Theft,349
+AZ,2017,Larceny - Theft,30433
+AZ,2018,Larceny - Theft,27123
+AZ,2019,Larceny - Theft,26034
+AZ,2020,Larceny - Theft,21274
+AZ,2021,Larceny - Theft,7621
+AR,2017,Larceny - Theft,9975
+AR,2018,Larceny - Theft,11560
+AR,2019,Larceny - Theft,11541
+AR,2020,Larceny - Theft,8608
+AR,2021,Larceny - Theft,6952
+CA,2017,Larceny - Theft,47080
+CA,2018,Larceny - Theft,42468
+CA,2019,Larceny - Theft,40497
+CA,2020,Larceny - Theft,28350
+CA,2021,Larceny - Theft,1981
+CO,2017,Larceny - Theft,22611
+CO,2018,Larceny - Theft,22069
+CO,2019,Larceny - Theft,22037
+CO,2020,Larceny - Theft,15939
+CO,2021,Larceny - Theft,12733
+CT,2017,Larceny - Theft,11248
+CT,2018,Larceny - Theft,10140
+CT,2019,Larceny - Theft,9791
+CT,2020,Larceny - Theft,6919
+CT,2021,Larceny - Theft,5634
+DE,2017,Larceny - Theft,5045
+DE,2018,Larceny - Theft,4538
+DE,2019,Larceny - Theft,4528
+DE,2020,Larceny - Theft,3327
+DE,2021,Larceny - Theft,2790
+DC,2017,Larceny - Theft,100
+DC,2018,Larceny - Theft,77
+DC,2019,Larceny - Theft,127
+DC,2020,Larceny - Theft,73
+DC,2021,Larceny - Theft,69
+FL,2017,Larceny - Theft,65969
+FL,2018,Larceny - Theft,2166
+FL,2019,Larceny - Theft,64087
+FL,2020,Larceny - Theft,46556
+FL,2021,Larceny - Theft,92
+GA,2017,Larceny - Theft,29492
+GA,2018,Larceny - Theft,25183
+GA,2019,Larceny - Theft,11876
+GA,2020,Larceny - Theft,9955
+GA,2021,Larceny - Theft,12264
+HI,2017,Larceny - Theft,2878
+HI,2018,Larceny - Theft,2588
+HI,2019,Larceny - Theft,2685
+HI,2020,Larceny - Theft,1571
+HI,2021,Larceny - Theft,1141
+ID,2017,Larceny - Theft,4584
+ID,2018,Larceny - Theft,4277
+ID,2019,Larceny - Theft,3825
+ID,2020,Larceny - Theft,2625
+ID,2021,Larceny - Theft,2075
+IL,2017,Larceny - Theft,7581
+IL,2018,Larceny - Theft,9497
+IL,2019,Larceny - Theft,453
+IL,2020,Larceny - Theft,355
+IL,2021,Larceny - Theft,3423
+IN,2017,Larceny - Theft,13052
+IN,2018,Larceny - Theft,11489
+IN,2019,Larceny - Theft,9810
+IN,2020,Larceny - Theft,6687
+IN,2021,Larceny - Theft,7121
+IA,2017,Larceny - Theft,10806
+IA,2018,Larceny - Theft,8411
+IA,2019,Larceny - Theft,9920
+IA,2020,Larceny - Theft,7013
+IA,2021,Larceny - Theft,5820
+KS,2017,Larceny - Theft,3983
+KS,2018,Larceny - Theft,955
+KS,2019,Larceny - Theft,3354
+KS,2020,Larceny - Theft,3831
+KS,2021,Larceny - Theft,3160
+KY,2017,Larceny - Theft,13495
+KY,2018,Larceny - Theft,13589
+KY,2019,Larceny - Theft,12567
+KY,2020,Larceny - Theft,6535
+KY,2021,Larceny - Theft,6526
+LA,2017,Larceny - Theft,19940
+LA,2018,Larceny - Theft,25073
+LA,2019,Larceny - Theft,22860
+LA,2020,Larceny - Theft,17004
+LA,2021,Larceny - Theft,9348
+ME,2017,Larceny - Theft,4685
+ME,2018,Larceny - Theft,4623
+ME,2019,Larceny - Theft,4280
+ME,2020,Larceny - Theft,3366
+ME,2021,Larceny - Theft,3047
+MD,2017,Larceny - Theft,17586
+MD,2018,Larceny - Theft,15715
+MD,2019,Larceny - Theft,16185
+MD,2020,Larceny - Theft,1793
+MD,2021,Larceny - Theft,2247
+MA,2017,Larceny - Theft,11036
+MA,2018,Larceny - Theft,9556
+MA,2019,Larceny - Theft,8558
+MA,2020,Larceny - Theft,4946
+MA,2021,Larceny - Theft,4347
+MI,2017,Larceny - Theft,20106
+MI,2018,Larceny - Theft,18896
+MI,2019,Larceny - Theft,18215
+MI,2020,Larceny - Theft,11269
+MI,2021,Larceny - Theft,9690
+MN,2017,Larceny - Theft,22669
+MN,2018,Larceny - Theft,20179
+MN,2019,Larceny - Theft,22381
+MN,2020,Larceny - Theft,16054
+MN,2021,Larceny - Theft,12515
+MS,2017,Larceny - Theft,7345
+MS,2018,Larceny - Theft,6309
+MS,2019,Larceny - Theft,6497
+MS,2020,Larceny - Theft,3484
+MS,2021,Larceny - Theft,3268
+MO,2017,Larceny - Theft,25662
+MO,2018,Larceny - Theft,22165
+MO,2019,Larceny - Theft,18801
+MO,2020,Larceny - Theft,14575
+MO,2021,Larceny - Theft,10827
+MT,2017,Larceny - Theft,4434
+MT,2018,Larceny - Theft,3864
+MT,2019,Larceny - Theft,4032
+MT,2020,Larceny - Theft,3383
+MT,2021,Larceny - Theft,3062
+NE,2017,Larceny - Theft,3055
+NE,2018,Larceny - Theft,7715
+NE,2019,Larceny - Theft,7439
+NE,2020,Larceny - Theft,4211
+NE,2021,Larceny - Theft,2369
+NV,2017,Larceny - Theft,6538
+NV,2018,Larceny - Theft,6341
+NV,2019,Larceny - Theft,6492
+NV,2020,Larceny - Theft,5284
+NV,2021,Larceny - Theft,4704
+NH,2017,Larceny - Theft,3309
+NH,2018,Larceny - Theft,3206
+NH,2019,Larceny - Theft,3065
+NH,2020,Larceny - Theft,2325
+NH,2021,Larceny - Theft,1761
+NJ,2017,Larceny - Theft,20691
+NJ,2018,Larceny - Theft,17766
+NJ,2019,Larceny - Theft,18210
+NJ,2020,Larceny - Theft,12600
+NJ,2021,Larceny - Theft,1237
+NM,2017,Larceny - Theft,3942
+NM,2018,Larceny - Theft,6244
+NM,2019,Larceny - Theft,4939
+NM,2020,Larceny - Theft,3424
+NM,2021,Larceny - Theft,1335
+NY,2017,Larceny - Theft,38337
+NY,2018,Larceny - Theft,35341
+NY,2019,Larceny - Theft,32848
+NY,2020,Larceny - Theft,23942
+NY,2021,Larceny - Theft,6667
+NC,2017,Larceny - Theft,31027
+NC,2018,Larceny - Theft,31765
+NC,2019,Larceny - Theft,23345
+NC,2020,Larceny - Theft,18568
+NC,2021,Larceny - Theft,16041
+ND,2017,Larceny - Theft,3147
+ND,2018,Larceny - Theft,2661
+ND,2019,Larceny - Theft,2653
+ND,2020,Larceny - Theft,2244
+ND,2021,Larceny - Theft,1889
+OH,2017,Larceny - Theft,31652
+OH,2018,Larceny - Theft,28816
+OH,2019,Larceny - Theft,27139
+OH,2020,Larceny - Theft,15996
+OH,2021,Larceny - Theft,13225
+OK,2017,Larceny - Theft,11274
+OK,2018,Larceny - Theft,11484
+OK,2019,Larceny - Theft,11658
+OK,2020,Larceny - Theft,9373
+OK,2021,Larceny - Theft,6931
+OR,2017,Larceny - Theft,14707
+OR,2018,Larceny - Theft,15958
+OR,2019,Larceny - Theft,16812
+OR,2020,Larceny - Theft,12161
+OR,2021,Larceny - Theft,9032
+PA,2017,Larceny - Theft,41903
+PA,2018,Larceny - Theft,36625
+PA,2019,Larceny - Theft,14140
+PA,2020,Larceny - Theft,289
+PA,2021,Larceny - Theft,1672
+RI,2017,Larceny - Theft,1939
+RI,2018,Larceny - Theft,1997
+RI,2019,Larceny - Theft,1842
+RI,2020,Larceny - Theft,1178
+RI,2021,Larceny - Theft,1007
+SC,2017,Larceny - Theft,21608
+SC,2018,Larceny - Theft,20299
+SC,2019,Larceny - Theft,20236
+SC,2020,Larceny - Theft,17226
+SC,2021,Larceny - Theft,12365
+SD,2017,Larceny - Theft,2516
+SD,2018,Larceny - Theft,2355
+SD,2019,Larceny - Theft,2102
+SD,2020,Larceny - Theft,1659
+SD,2021,Larceny - Theft,733
+TN,2017,Larceny - Theft,30420
+TN,2018,Larceny - Theft,31598
+TN,2019,Larceny - Theft,28934
+TN,2020,Larceny - Theft,23533
+TN,2021,Larceny - Theft,17560
+TX,2017,Larceny - Theft,66176
+TX,2018,Larceny - Theft,63378
+TX,2019,Larceny - Theft,58115
+TX,2020,Larceny - Theft,41496
+TX,2021,Larceny - Theft,36577
+UT,2017,Larceny - Theft,14903
+UT,2018,Larceny - Theft,13672
+UT,2019,Larceny - Theft,13214
+UT,2020,Larceny - Theft,10058
+UT,2021,Larceny - Theft,9082
+VT,2017,Larceny - Theft,1436
+VT,2018,Larceny - Theft,1385
+VT,2019,Larceny - Theft,1647
+VT,2020,Larceny - Theft,995
+VT,2021,Larceny - Theft,915
+VI,2018,Larceny - Theft,16
+VA,2017,Larceny - Theft,24820
+VA,2018,Larceny - Theft,23800
+VA,2019,Larceny - Theft,23802
+VA,2020,Larceny - Theft,17751
+VA,2021,Larceny - Theft,14916
+WA,2017,Larceny - Theft,21545
+WA,2018,Larceny - Theft,20701
+WA,2019,Larceny - Theft,20382
+WA,2020,Larceny - Theft,15816
+WA,2021,Larceny - Theft,11297
+WV,2017,Larceny - Theft,4728
+WV,2018,Larceny - Theft,4015
+WV,2019,Larceny - Theft,3424
+WV,2020,Larceny - Theft,2696
+WV,2021,Larceny - Theft,2362
+WI,2017,Larceny - Theft,25535
+WI,2018,Larceny - Theft,22402
+WI,2019,Larceny - Theft,21392
+WI,2020,Larceny - Theft,16238
+WI,2021,Larceny - Theft,11895
+WY,2017,Larceny - Theft,1995
+WY,2018,Larceny - Theft,1818
+WY,2019,Larceny - Theft,1562
+WY,2020,Larceny - Theft,1640
+WY,2021,Larceny - Theft,733
+AL,2017,Vandalism,1256
+AL,2018,Vandalism,1234
+AL,2019,Vandalism,1183
+AL,2020,Vandalism,29
+AL,2021,Vandalism,627
+AK,2017,Vandalism,1004
+AK,2018,Vandalism,1103
+AK,2019,Vandalism,1161
+AK,2020,Vandalism,1063
+AK,2021,Vandalism,323
+AZ,2017,Vandalism,10974
+AZ,2018,Vandalism,10704
+AZ,2019,Vandalism,9932
+AZ,2020,Vandalism,8874
+AZ,2021,Vandalism,3285
+AR,2017,Vandalism,1574
+AR,2018,Vandalism,1669
+AR,2019,Vandalism,1908
+AR,2020,Vandalism,1518
+AR,2021,Vandalism,1685
+CA,2017,Vandalism,16962
+CA,2018,Vandalism,16652
+CA,2019,Vandalism,16811
+CA,2020,Vandalism,17493
+CA,2021,Vandalism,1354
+CO,2017,Vandalism,5792
+CO,2018,Vandalism,5490
+CO,2019,Vandalism,5642
+CO,2020,Vandalism,5593
+CO,2021,Vandalism,5467
+CT,2017,Vandalism,2208
+CT,2018,Vandalism,1707
+CT,2019,Vandalism,1714
+CT,2020,Vandalism,1529
+CT,2021,Vandalism,1600
+DE,2017,Vandalism,751
+DE,2018,Vandalism,763
+DE,2019,Vandalism,863
+DE,2020,Vandalism,850
+DE,2021,Vandalism,873
+DC,2017,Vandalism,54
+DC,2018,Vandalism,35
+DC,2019,Vandalism,46
+DC,2020,Vandalism,48
+DC,2021,Vandalism,73
+FL,2017,Vandalism,6333
+FL,2018,Vandalism,210
+FL,2019,Vandalism,5956
+FL,2020,Vandalism,5823
+FL,2021,Vandalism,13
+GA,2017,Vandalism,3834
+GA,2018,Vandalism,3681
+GA,2019,Vandalism,2047
+GA,2020,Vandalism,2861
+GA,2021,Vandalism,3449
+HI,2017,Vandalism,387
+HI,2018,Vandalism,282
+HI,2019,Vandalism,333
+HI,2020,Vandalism,215
+HI,2021,Vandalism,83
+ID,2017,Vandalism,892
+ID,2018,Vandalism,875
+ID,2019,Vandalism,797
+ID,2020,Vandalism,733
+ID,2021,Vandalism,709
+IL,2017,Vandalism,2068
+IL,2018,Vandalism,2684
+IL,2019,Vandalism,312
+IL,2020,Vandalism,341
+IL,2021,Vandalism,1649
+IN,2017,Vandalism,1078
+IN,2018,Vandalism,1107
+IN,2019,Vandalism,782
+IN,2020,Vandalism,514
+IN,2021,Vandalism,564
+IA,2017,Vandalism,2165
+IA,2018,Vandalism,1766
+IA,2019,Vandalism,2166
+IA,2020,Vandalism,2139
+IA,2021,Vandalism,1951
+KS,2017,Vandalism,1748
+KS,2018,Vandalism,384
+KS,2019,Vandalism,1787
+KS,2020,Vandalism,1875
+KS,2021,Vandalism,1593
+KY,2017,Vandalism,1198
+KY,2018,Vandalism,1256
+KY,2019,Vandalism,1430
+KY,2020,Vandalism,963
+KY,2021,Vandalism,1302
+LA,2017,Vandalism,3073
+LA,2018,Vandalism,3536
+LA,2019,Vandalism,3398
+LA,2020,Vandalism,3098
+LA,2021,Vandalism,2299
+ME,2017,Vandalism,1068
+ME,2018,Vandalism,1034
+ME,2019,Vandalism,981
+ME,2020,Vandalism,961
+ME,2021,Vandalism,948
+MD,2017,Vandalism,2732
+MD,2018,Vandalism,2579
+MD,2019,Vandalism,2774
+MD,2020,Vandalism,344
+MD,2021,Vandalism,532
+MA,2017,Vandalism,2612
+MA,2018,Vandalism,2454
+MA,2019,Vandalism,2154
+MA,2020,Vandalism,2051
+MA,2021,Vandalism,1979
+MI,2017,Vandalism,2845
+MI,2018,Vandalism,2898
+MI,2019,Vandalism,3030
+MI,2020,Vandalism,2673
+MI,2021,Vandalism,2785
+MN,2017,Vandalism,3113
+MN,2018,Vandalism,2690
+MN,2019,Vandalism,2705
+MN,2020,Vandalism,2533
+MN,2021,Vandalism,2228
+MS,2017,Vandalism,705
+MS,2018,Vandalism,589
+MS,2019,Vandalism,638
+MS,2020,Vandalism,386
+MS,2021,Vandalism,674
+MO,2017,Vandalism,3951
+MO,2018,Vandalism,3596
+MO,2019,Vandalism,3168
+MO,2020,Vandalism,3542
+MO,2021,Vandalism,3265
+MT,2017,Vandalism,937
+MT,2018,Vandalism,814
+MT,2019,Vandalism,892
+MT,2020,Vandalism,1025
+MT,2021,Vandalism,848
+NE,2017,Vandalism,1008
+NE,2018,Vandalism,2248
+NE,2019,Vandalism,2234
+NE,2020,Vandalism,1449
+NE,2021,Vandalism,1328
+NV,2017,Vandalism,1600
+NV,2018,Vandalism,1638
+NV,2019,Vandalism,1860
+NV,2020,Vandalism,2026
+NV,2021,Vandalism,2120
+NH,2017,Vandalism,1274
+NH,2018,Vandalism,1275
+NH,2019,Vandalism,1185
+NH,2020,Vandalism,1010
+NH,2021,Vandalism,944
+NJ,2017,Vandalism,3365
+NJ,2018,Vandalism,2975
+NJ,2019,Vandalism,3073
+NJ,2020,Vandalism,2833
+NJ,2021,Vandalism,367
+NM,2017,Vandalism,684
+NM,2018,Vandalism,1094
+NM,2019,Vandalism,1266
+NM,2020,Vandalism,1285
+NM,2021,Vandalism,1045
+NY,2017,Vandalism,14111
+NY,2018,Vandalism,12806
+NY,2019,Vandalism,11997
+NY,2020,Vandalism,10232
+NY,2021,Vandalism,3206
+NC,2017,Vandalism,4814
+NC,2018,Vandalism,4697
+NC,2019,Vandalism,2865
+NC,2020,Vandalism,2581
+NC,2021,Vandalism,2845
+ND,2017,Vandalism,484
+ND,2018,Vandalism,446
+ND,2019,Vandalism,506
+ND,2020,Vandalism,477
+ND,2021,Vandalism,510
+OH,2017,Vandalism,4141
+OH,2018,Vandalism,3949
+OH,2019,Vandalism,3881
+OH,2020,Vandalism,2924
+OH,2021,Vandalism,3017
+OK,2017,Vandalism,1280
+OK,2018,Vandalism,1253
+OK,2019,Vandalism,1414
+OK,2020,Vandalism,1671
+OK,2021,Vandalism,1520
+OR,2017,Vandalism,4095
+OR,2018,Vandalism,4054
+OR,2019,Vandalism,4047
+OR,2020,Vandalism,3837
+OR,2021,Vandalism,4010
+PA,2017,Vandalism,7261
+PA,2018,Vandalism,6323
+PA,2019,Vandalism,2764
+PA,2020,Vandalism,34
+PA,2021,Vandalism,329
+RI,2017,Vandalism,1039
+RI,2018,Vandalism,918
+RI,2019,Vandalism,934
+RI,2020,Vandalism,837
+RI,2021,Vandalism,879
+SC,2017,Vandalism,3018
+SC,2018,Vandalism,2789
+SC,2019,Vandalism,2955
+SC,2020,Vandalism,2889
+SC,2021,Vandalism,2830
+SD,2017,Vandalism,628
+SD,2018,Vandalism,541
+SD,2019,Vandalism,543
+SD,2020,Vandalism,498
+SD,2021,Vandalism,352
+TN,2017,Vandalism,4769
+TN,2018,Vandalism,4378
+TN,2019,Vandalism,4421
+TN,2020,Vandalism,4089
+TN,2021,Vandalism,4111
+TX,2017,Vandalism,7650
+TX,2018,Vandalism,7627
+TX,2019,Vandalism,7370
+TX,2020,Vandalism,6383
+TX,2021,Vandalism,7217
+UT,2017,Vandalism,2809
+UT,2018,Vandalism,3016
+UT,2019,Vandalism,2988
+UT,2020,Vandalism,2778
+UT,2021,Vandalism,2905
+VT,2017,Vandalism,394
+VT,2018,Vandalism,328
+VT,2019,Vandalism,428
+VT,2020,Vandalism,348
+VT,2021,Vandalism,482
+VI,2018,Vandalism,10
+VA,2017,Vandalism,3951
+VA,2018,Vandalism,3596
+VA,2019,Vandalism,3231
+VA,2020,Vandalism,3234
+VA,2021,Vandalism,3163
+WA,2017,Vandalism,5266
+WA,2018,Vandalism,5033
+WA,2019,Vandalism,4801
+WA,2020,Vandalism,4904
+WA,2021,Vandalism,4407
+WV,2017,Vandalism,719
+WV,2018,Vandalism,584
+WV,2019,Vandalism,439
+WV,2020,Vandalism,432
+WV,2021,Vandalism,356
+WI,2017,Vandalism,6311
+WI,2018,Vandalism,5585
+WI,2019,Vandalism,5504
+WI,2020,Vandalism,4873
+WI,2021,Vandalism,4360
+WY,2017,Vandalism,493
+WY,2018,Vandalism,419
+WY,2019,Vandalism,467
+WY,2020,Vandalism,502
+WY,2021,Vandalism,289
+AL,2017,"Stolen Property: Buying, Receiving, Possessing",2280
+AL,2018,"Stolen Property: Buying, Receiving, Possessing",2177
+AL,2019,"Stolen Property: Buying, Receiving, Possessing",1881
+AL,2020,"Stolen Property: Buying, Receiving, Possessing",46
+AL,2021,"Stolen Property: Buying, Receiving, Possessing",622
+AK,2017,"Stolen Property: Buying, Receiving, Possessing",105
+AK,2018,"Stolen Property: Buying, Receiving, Possessing",120
+AK,2019,"Stolen Property: Buying, Receiving, Possessing",91
+AK,2020,"Stolen Property: Buying, Receiving, Possessing",66
+AK,2021,"Stolen Property: Buying, Receiving, Possessing",11
+AZ,2017,"Stolen Property: Buying, Receiving, Possessing",1452
+AZ,2018,"Stolen Property: Buying, Receiving, Possessing",1136
+AZ,2019,"Stolen Property: Buying, Receiving, Possessing",1020
+AZ,2020,"Stolen Property: Buying, Receiving, Possessing",1023
+AZ,2021,"Stolen Property: Buying, Receiving, Possessing",314
+AR,2017,"Stolen Property: Buying, Receiving, Possessing",1794
+AR,2018,"Stolen Property: Buying, Receiving, Possessing",1882
+AR,2019,"Stolen Property: Buying, Receiving, Possessing",1861
+AR,2020,"Stolen Property: Buying, Receiving, Possessing",1672
+AR,2021,"Stolen Property: Buying, Receiving, Possessing",1663
+CA,2017,"Stolen Property: Buying, Receiving, Possessing",17423
+CA,2018,"Stolen Property: Buying, Receiving, Possessing",16227
+CA,2019,"Stolen Property: Buying, Receiving, Possessing",15168
+CA,2020,"Stolen Property: Buying, Receiving, Possessing",14631
+CA,2021,"Stolen Property: Buying, Receiving, Possessing",1218
+CO,2017,"Stolen Property: Buying, Receiving, Possessing",528
+CO,2018,"Stolen Property: Buying, Receiving, Possessing",608
+CO,2019,"Stolen Property: Buying, Receiving, Possessing",638
+CO,2020,"Stolen Property: Buying, Receiving, Possessing",727
+CO,2021,"Stolen Property: Buying, Receiving, Possessing",981
+CT,2017,"Stolen Property: Buying, Receiving, Possessing",696
+CT,2018,"Stolen Property: Buying, Receiving, Possessing",697
+CT,2019,"Stolen Property: Buying, Receiving, Possessing",350
+CT,2020,"Stolen Property: Buying, Receiving, Possessing",332
+CT,2021,"Stolen Property: Buying, Receiving, Possessing",245
+DE,2017,"Stolen Property: Buying, Receiving, Possessing",403
+DE,2018,"Stolen Property: Buying, Receiving, Possessing",327
+DE,2019,"Stolen Property: Buying, Receiving, Possessing",378
+DE,2020,"Stolen Property: Buying, Receiving, Possessing",346
+DE,2021,"Stolen Property: Buying, Receiving, Possessing",343
+DC,2017,"Stolen Property: Buying, Receiving, Possessing",21
+DC,2018,"Stolen Property: Buying, Receiving, Possessing",14
+DC,2019,"Stolen Property: Buying, Receiving, Possessing",41
+DC,2020,"Stolen Property: Buying, Receiving, Possessing",19
+DC,2021,"Stolen Property: Buying, Receiving, Possessing",14
+FL,2017,"Stolen Property: Buying, Receiving, Possessing",1838
+FL,2018,"Stolen Property: Buying, Receiving, Possessing",86
+FL,2019,"Stolen Property: Buying, Receiving, Possessing",1512
+FL,2020,"Stolen Property: Buying, Receiving, Possessing",1318
+FL,2021,"Stolen Property: Buying, Receiving, Possessing",21
+GA,2017,"Stolen Property: Buying, Receiving, Possessing",3438
+GA,2018,"Stolen Property: Buying, Receiving, Possessing",2778
+GA,2019,"Stolen Property: Buying, Receiving, Possessing",1432
+GA,2020,"Stolen Property: Buying, Receiving, Possessing",1432
+GA,2021,"Stolen Property: Buying, Receiving, Possessing",1763
+HI,2017,"Stolen Property: Buying, Receiving, Possessing",414
+HI,2018,"Stolen Property: Buying, Receiving, Possessing",450
+HI,2019,"Stolen Property: Buying, Receiving, Possessing",450
+HI,2020,"Stolen Property: Buying, Receiving, Possessing",474
+HI,2021,"Stolen Property: Buying, Receiving, Possessing",488
+ID,2017,"Stolen Property: Buying, Receiving, Possessing",228
+ID,2018,"Stolen Property: Buying, Receiving, Possessing",227
+ID,2019,"Stolen Property: Buying, Receiving, Possessing",179
+ID,2020,"Stolen Property: Buying, Receiving, Possessing",176
+ID,2021,"Stolen Property: Buying, Receiving, Possessing",166
+IL,2017,"Stolen Property: Buying, Receiving, Possessing",63
+IL,2018,"Stolen Property: Buying, Receiving, Possessing",86
+IL,2019,"Stolen Property: Buying, Receiving, Possessing",90
+IL,2020,"Stolen Property: Buying, Receiving, Possessing",57
+IL,2021,"Stolen Property: Buying, Receiving, Possessing",141
+IN,2017,"Stolen Property: Buying, Receiving, Possessing",286
+IN,2018,"Stolen Property: Buying, Receiving, Possessing",291
+IN,2019,"Stolen Property: Buying, Receiving, Possessing",360
+IN,2020,"Stolen Property: Buying, Receiving, Possessing",381
+IN,2021,"Stolen Property: Buying, Receiving, Possessing",483
+IA,2017,"Stolen Property: Buying, Receiving, Possessing",231
+IA,2018,"Stolen Property: Buying, Receiving, Possessing",225
+IA,2019,"Stolen Property: Buying, Receiving, Possessing",269
+IA,2020,"Stolen Property: Buying, Receiving, Possessing",286
+IA,2021,"Stolen Property: Buying, Receiving, Possessing",288
+KS,2017,"Stolen Property: Buying, Receiving, Possessing",609
+KS,2018,"Stolen Property: Buying, Receiving, Possessing",181
+KS,2019,"Stolen Property: Buying, Receiving, Possessing",575
+KS,2020,"Stolen Property: Buying, Receiving, Possessing",649
+KS,2021,"Stolen Property: Buying, Receiving, Possessing",431
+KY,2017,"Stolen Property: Buying, Receiving, Possessing",3057
+KY,2018,"Stolen Property: Buying, Receiving, Possessing",3111
+KY,2019,"Stolen Property: Buying, Receiving, Possessing",2963
+KY,2020,"Stolen Property: Buying, Receiving, Possessing",1558
+KY,2021,"Stolen Property: Buying, Receiving, Possessing",2630
+LA,2017,"Stolen Property: Buying, Receiving, Possessing",2237
+LA,2018,"Stolen Property: Buying, Receiving, Possessing",3132
+LA,2019,"Stolen Property: Buying, Receiving, Possessing",2649
+LA,2020,"Stolen Property: Buying, Receiving, Possessing",2406
+LA,2021,"Stolen Property: Buying, Receiving, Possessing",1503
+ME,2017,"Stolen Property: Buying, Receiving, Possessing",93
+ME,2018,"Stolen Property: Buying, Receiving, Possessing",116
+ME,2019,"Stolen Property: Buying, Receiving, Possessing",99
+ME,2020,"Stolen Property: Buying, Receiving, Possessing",105
+ME,2021,"Stolen Property: Buying, Receiving, Possessing",100
+MD,2017,"Stolen Property: Buying, Receiving, Possessing",161
+MD,2018,"Stolen Property: Buying, Receiving, Possessing",341
+MD,2019,"Stolen Property: Buying, Receiving, Possessing",282
+MD,2020,"Stolen Property: Buying, Receiving, Possessing",169
+MD,2021,"Stolen Property: Buying, Receiving, Possessing",131
+MA,2017,"Stolen Property: Buying, Receiving, Possessing",1218
+MA,2018,"Stolen Property: Buying, Receiving, Possessing",979
+MA,2019,"Stolen Property: Buying, Receiving, Possessing",905
+MA,2020,"Stolen Property: Buying, Receiving, Possessing",841
+MA,2021,"Stolen Property: Buying, Receiving, Possessing",681
+MI,2017,"Stolen Property: Buying, Receiving, Possessing",1809
+MI,2018,"Stolen Property: Buying, Receiving, Possessing",1997
+MI,2019,"Stolen Property: Buying, Receiving, Possessing",2210
+MI,2020,"Stolen Property: Buying, Receiving, Possessing",2134
+MI,2021,"Stolen Property: Buying, Receiving, Possessing",2156
+MN,2017,"Stolen Property: Buying, Receiving, Possessing",2022
+MN,2018,"Stolen Property: Buying, Receiving, Possessing",1982
+MN,2019,"Stolen Property: Buying, Receiving, Possessing",2012
+MN,2020,"Stolen Property: Buying, Receiving, Possessing",2383
+MN,2021,"Stolen Property: Buying, Receiving, Possessing",2049
+MS,2017,"Stolen Property: Buying, Receiving, Possessing",853
+MS,2018,"Stolen Property: Buying, Receiving, Possessing",712
+MS,2019,"Stolen Property: Buying, Receiving, Possessing",682
+MS,2020,"Stolen Property: Buying, Receiving, Possessing",504
+MS,2021,"Stolen Property: Buying, Receiving, Possessing",582
+MO,2017,"Stolen Property: Buying, Receiving, Possessing",2954
+MO,2018,"Stolen Property: Buying, Receiving, Possessing",2905
+MO,2019,"Stolen Property: Buying, Receiving, Possessing",3493
+MO,2020,"Stolen Property: Buying, Receiving, Possessing",3067
+MO,2021,"Stolen Property: Buying, Receiving, Possessing",2076
+MT,2017,"Stolen Property: Buying, Receiving, Possessing",99
+MT,2018,"Stolen Property: Buying, Receiving, Possessing",115
+MT,2019,"Stolen Property: Buying, Receiving, Possessing",245
+MT,2020,"Stolen Property: Buying, Receiving, Possessing",190
+MT,2021,"Stolen Property: Buying, Receiving, Possessing",230
+NE,2017,"Stolen Property: Buying, Receiving, Possessing",217
+NE,2018,"Stolen Property: Buying, Receiving, Possessing",797
+NE,2019,"Stolen Property: Buying, Receiving, Possessing",714
+NE,2020,"Stolen Property: Buying, Receiving, Possessing",537
+NE,2021,"Stolen Property: Buying, Receiving, Possessing",233
+NV,2017,"Stolen Property: Buying, Receiving, Possessing",1795
+NV,2018,"Stolen Property: Buying, Receiving, Possessing",1859
+NV,2019,"Stolen Property: Buying, Receiving, Possessing",1883
+NV,2020,"Stolen Property: Buying, Receiving, Possessing",1822
+NV,2021,"Stolen Property: Buying, Receiving, Possessing",1837
+NH,2017,"Stolen Property: Buying, Receiving, Possessing",536
+NH,2018,"Stolen Property: Buying, Receiving, Possessing",566
+NH,2019,"Stolen Property: Buying, Receiving, Possessing",480
+NH,2020,"Stolen Property: Buying, Receiving, Possessing",370
+NH,2021,"Stolen Property: Buying, Receiving, Possessing",324
+NJ,2017,"Stolen Property: Buying, Receiving, Possessing",2628
+NJ,2018,"Stolen Property: Buying, Receiving, Possessing",2420
+NJ,2019,"Stolen Property: Buying, Receiving, Possessing",2488
+NJ,2020,"Stolen Property: Buying, Receiving, Possessing",2454
+NJ,2021,"Stolen Property: Buying, Receiving, Possessing",428
+NM,2017,"Stolen Property: Buying, Receiving, Possessing",1211
+NM,2018,"Stolen Property: Buying, Receiving, Possessing",1059
+NM,2019,"Stolen Property: Buying, Receiving, Possessing",761
+NM,2020,"Stolen Property: Buying, Receiving, Possessing",626
+NM,2021,"Stolen Property: Buying, Receiving, Possessing",542
+NY,2017,"Stolen Property: Buying, Receiving, Possessing",3319
+NY,2018,"Stolen Property: Buying, Receiving, Possessing",2861
+NY,2019,"Stolen Property: Buying, Receiving, Possessing",2258
+NY,2020,"Stolen Property: Buying, Receiving, Possessing",2331
+NY,2021,"Stolen Property: Buying, Receiving, Possessing",465
+NC,2017,"Stolen Property: Buying, Receiving, Possessing",3940
+NC,2018,"Stolen Property: Buying, Receiving, Possessing",4196
+NC,2019,"Stolen Property: Buying, Receiving, Possessing",3542
+NC,2020,"Stolen Property: Buying, Receiving, Possessing",3449
+NC,2021,"Stolen Property: Buying, Receiving, Possessing",3474
+ND,2017,"Stolen Property: Buying, Receiving, Possessing",313
+ND,2018,"Stolen Property: Buying, Receiving, Possessing",278
+ND,2019,"Stolen Property: Buying, Receiving, Possessing",304
+ND,2020,"Stolen Property: Buying, Receiving, Possessing",343
+ND,2021,"Stolen Property: Buying, Receiving, Possessing",343
+OH,2017,"Stolen Property: Buying, Receiving, Possessing",3296
+OH,2018,"Stolen Property: Buying, Receiving, Possessing",2964
+OH,2019,"Stolen Property: Buying, Receiving, Possessing",2586
+OH,2020,"Stolen Property: Buying, Receiving, Possessing",1734
+OH,2021,"Stolen Property: Buying, Receiving, Possessing",1545
+OK,2017,"Stolen Property: Buying, Receiving, Possessing",2906
+OK,2018,"Stolen Property: Buying, Receiving, Possessing",3039
+OK,2019,"Stolen Property: Buying, Receiving, Possessing",2646
+OK,2020,"Stolen Property: Buying, Receiving, Possessing",2134
+OK,2021,"Stolen Property: Buying, Receiving, Possessing",1489
+OR,2017,"Stolen Property: Buying, Receiving, Possessing",626
+OR,2018,"Stolen Property: Buying, Receiving, Possessing",676
+OR,2019,"Stolen Property: Buying, Receiving, Possessing",620
+OR,2020,"Stolen Property: Buying, Receiving, Possessing",598
+OR,2021,"Stolen Property: Buying, Receiving, Possessing",792
+PA,2017,"Stolen Property: Buying, Receiving, Possessing",2422
+PA,2018,"Stolen Property: Buying, Receiving, Possessing",2231
+PA,2019,"Stolen Property: Buying, Receiving, Possessing",893
+PA,2020,"Stolen Property: Buying, Receiving, Possessing",23
+PA,2021,"Stolen Property: Buying, Receiving, Possessing",56
+RI,2017,"Stolen Property: Buying, Receiving, Possessing",326
+RI,2018,"Stolen Property: Buying, Receiving, Possessing",352
+RI,2019,"Stolen Property: Buying, Receiving, Possessing",276
+RI,2020,"Stolen Property: Buying, Receiving, Possessing",267
+RI,2021,"Stolen Property: Buying, Receiving, Possessing",264
+SC,2017,"Stolen Property: Buying, Receiving, Possessing",2308
+SC,2018,"Stolen Property: Buying, Receiving, Possessing",2577
+SC,2019,"Stolen Property: Buying, Receiving, Possessing",2467
+SC,2020,"Stolen Property: Buying, Receiving, Possessing",2574
+SC,2021,"Stolen Property: Buying, Receiving, Possessing",2213
+SD,2017,"Stolen Property: Buying, Receiving, Possessing",225
+SD,2018,"Stolen Property: Buying, Receiving, Possessing",153
+SD,2019,"Stolen Property: Buying, Receiving, Possessing",178
+SD,2020,"Stolen Property: Buying, Receiving, Possessing",263
+SD,2021,"Stolen Property: Buying, Receiving, Possessing",152
+TN,2017,"Stolen Property: Buying, Receiving, Possessing",1524
+TN,2018,"Stolen Property: Buying, Receiving, Possessing",1649
+TN,2019,"Stolen Property: Buying, Receiving, Possessing",1558
+TN,2020,"Stolen Property: Buying, Receiving, Possessing",1821
+TN,2021,"Stolen Property: Buying, Receiving, Possessing",1930
+TX,2017,"Stolen Property: Buying, Receiving, Possessing",937
+TX,2018,"Stolen Property: Buying, Receiving, Possessing",898
+TX,2019,"Stolen Property: Buying, Receiving, Possessing",801
+TX,2020,"Stolen Property: Buying, Receiving, Possessing",867
+TX,2021,"Stolen Property: Buying, Receiving, Possessing",1015
+UT,2017,"Stolen Property: Buying, Receiving, Possessing",1300
+UT,2018,"Stolen Property: Buying, Receiving, Possessing",1055
+UT,2019,"Stolen Property: Buying, Receiving, Possessing",985
+UT,2020,"Stolen Property: Buying, Receiving, Possessing",1152
+UT,2021,"Stolen Property: Buying, Receiving, Possessing",938
+VT,2017,"Stolen Property: Buying, Receiving, Possessing",103
+VT,2018,"Stolen Property: Buying, Receiving, Possessing",96
+VT,2019,"Stolen Property: Buying, Receiving, Possessing",94
+VT,2020,"Stolen Property: Buying, Receiving, Possessing",78
+VT,2021,"Stolen Property: Buying, Receiving, Possessing",80
+VI,2018,"Stolen Property: Buying, Receiving, Possessing",1
+VA,2017,"Stolen Property: Buying, Receiving, Possessing",1060
+VA,2018,"Stolen Property: Buying, Receiving, Possessing",1102
+VA,2019,"Stolen Property: Buying, Receiving, Possessing",936
+VA,2020,"Stolen Property: Buying, Receiving, Possessing",793
+VA,2021,"Stolen Property: Buying, Receiving, Possessing",734
+WA,2017,"Stolen Property: Buying, Receiving, Possessing",3515
+WA,2018,"Stolen Property: Buying, Receiving, Possessing",3446
+WA,2019,"Stolen Property: Buying, Receiving, Possessing",3167
+WA,2020,"Stolen Property: Buying, Receiving, Possessing",3051
+WA,2021,"Stolen Property: Buying, Receiving, Possessing",2838
+WV,2017,"Stolen Property: Buying, Receiving, Possessing",497
+WV,2018,"Stolen Property: Buying, Receiving, Possessing",392
+WV,2019,"Stolen Property: Buying, Receiving, Possessing",303
+WV,2020,"Stolen Property: Buying, Receiving, Possessing",299
+WV,2021,"Stolen Property: Buying, Receiving, Possessing",321
+WI,2017,"Stolen Property: Buying, Receiving, Possessing",1487
+WI,2018,"Stolen Property: Buying, Receiving, Possessing",1138
+WI,2019,"Stolen Property: Buying, Receiving, Possessing",1041
+WI,2020,"Stolen Property: Buying, Receiving, Possessing",1029
+WI,2021,"Stolen Property: Buying, Receiving, Possessing",1106
+WY,2017,"Stolen Property: Buying, Receiving, Possessing",94
+WY,2018,"Stolen Property: Buying, Receiving, Possessing",80
+WY,2019,"Stolen Property: Buying, Receiving, Possessing",55
+WY,2020,"Stolen Property: Buying, Receiving, Possessing",50
+WY,2021,"Stolen Property: Buying, Receiving, Possessing",10
