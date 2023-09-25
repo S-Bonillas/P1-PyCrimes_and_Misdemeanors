@@ -25,7 +25,7 @@ Project members workbooks are saved in separate folders.
 - Resources Folder (The notebook references the Resources folder, output files are also housed there)
 
 **PyCrimes_Final > Resources contains:**
-- census_data.csv (cleaned data from the US Census Bureau)
+- census_data.csv (Cleaned data from the US Census Bureau)
 - combined_cleaned.csv (FBI data cleaned and extrapolated, exported from a dataframe)
 - FBI_Data_Raw_2010_2020.json (Raw FBI API data showing arrest data from 2010 to 2020, saved to a JSON)
 - fbi-crime-data-normalized.csv (Crime data adjusted for population)
