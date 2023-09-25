@@ -22,6 +22,7 @@ Project members workbooks are saved in separate folders.
 **PyCrimes_Final Contains:**
 - PyCrimes_Final.ipynb (Jupyter Notebook file of the requested analysis and visualizations)
 - PyCrimes_Presentation.pptx (PowerPoint presentation for the project)
+- PyCrimes_Presentation.pdf (PDF handout for the class)
 - Resources Folder (The notebook references the Resources folder, output files are also housed there)
 
 **PyCrimes_Final > Resources contains:**
