@@ -14,10 +14,14 @@
 - Visualizations are in Line, Bar, and Scatter Graphs.
 - HvPlot maps are also provided.
 
-.gitignore hides the utilized API keys.
+**Sources:**
+- FBI: Crime Data Explorer (https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/docApi)
+- US Census Bureau, 2020 Census Results (https://www.census.gov/programs-surveys/decennial-census/decade/2020/2020-census-results.html)
 
-Final project files are housed within the PyCrimes_Final folder.
-Project members workbooks are saved in separate folders.
+**File & Folder Structure**
+- .gitignore hides the utilized API keys.
+- Final project files are housed within the PyCrimes_Final folder.
+- Project members workbooks are saved in separate folders.
 
 **PyCrimes_Final Contains:**
 - PyCrimes_Final.ipynb (Jupyter Notebook file of the requested analysis and visualizations)
